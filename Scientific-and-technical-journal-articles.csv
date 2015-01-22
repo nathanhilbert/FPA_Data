@@ -1,876 +1,4 @@
-﻿Country Name,Country Code,Date,Thevalue,theid
-Arab World,ARB,1986-01-01,2671,0
-Arab World,ARB,1987-01-01,2675,1
-Arab World,ARB,1988-01-01,2978,2
-Arab World,ARB,1989-01-01,3234,3
-Arab World,ARB,1990-01-01,3216,4
-Arab World,ARB,1991-01-01,3194,5
-Arab World,ARB,1992-01-01,3077,6
-Arab World,ARB,1993-01-01,3108,7
-Arab World,ARB,1994-01-01,3376,8
-Arab World,ARB,1995-01-01,3509.3,9
-Arab World,ARB,1996-01-01,3470.6,10
-Arab World,ARB,1997-01-01,3595.5,11
-Arab World,ARB,1998-01-01,3722.1,12
-Arab World,ARB,1999-01-01,3861.7,13
-Arab World,ARB,2000-01-01,4048.7,14
-Arab World,ARB,2001-01-01,4204.1,15
-Arab World,ARB,2002-01-01,4294.5,16
-Arab World,ARB,2003-01-01,4595.1,17
-Arab World,ARB,2004-01-01,4735.4,18
-Arab World,ARB,2005-01-01,4954.9,19
-Arab World,ARB,2006-01-01,5247.7,20
-Arab World,ARB,2007-01-01,5647.7,21
-Arab World,ARB,2008-01-01,6099.4,22
-Arab World,ARB,2009-01-01,6580.6,23
-Arab World,ARB,2010-01-01,7046.8,24
-Arab World,ARB,2011-01-01,7754.9,25
-Caribbean small states,CSS,1986-01-01,133,26
-Caribbean small states,CSS,1987-01-01,152,27
-Caribbean small states,CSS,1988-01-01,144,28
-Caribbean small states,CSS,1989-01-01,145,29
-Caribbean small states,CSS,1990-01-01,124,30
-Caribbean small states,CSS,1991-01-01,129,31
-Caribbean small states,CSS,1992-01-01,131,32
-Caribbean small states,CSS,1993-01-01,134,33
-Caribbean small states,CSS,1994-01-01,152,34
-Caribbean small states,CSS,1995-01-01,149,35
-Caribbean small states,CSS,1996-01-01,124.9,36
-Caribbean small states,CSS,1997-01-01,131.7,37
-Caribbean small states,CSS,1998-01-01,126.2,38
-Caribbean small states,CSS,1999-01-01,117.4,39
-Caribbean small states,CSS,2000-01-01,105.8,40
-Caribbean small states,CSS,2001-01-01,137.3,41
-Caribbean small states,CSS,2002-01-01,138.1,42
-Caribbean small states,CSS,2003-01-01,135.1,43
-Caribbean small states,CSS,2004-01-01,144.6,44
-Caribbean small states,CSS,2005-01-01,139.5,45
-Caribbean small states,CSS,2006-01-01,123.1,46
-Caribbean small states,CSS,2007-01-01,155.6,47
-Caribbean small states,CSS,2008-01-01,129.7,48
-Caribbean small states,CSS,2009-01-01,133,49
-Caribbean small states,CSS,2010-01-01,141,50
-Caribbean small states,CSS,2011-01-01,152.9,51
-Central Europe and the Baltics,CEB,1981-01-01,7220,52
-Central Europe and the Baltics,CEB,1985-01-01,6950,53
-Central Europe and the Baltics,CEB,1986-01-01,7623,54
-Central Europe and the Baltics,CEB,1987-01-01,7133,55
-Central Europe and the Baltics,CEB,1988-01-01,9972,56
-Central Europe and the Baltics,CEB,1989-01-01,10819,57
-Central Europe and the Baltics,CEB,1990-01-01,10393,58
-Central Europe and the Baltics,CEB,1991-01-01,10170,59
-Central Europe and the Baltics,CEB,1992-01-01,10970,60
-Central Europe and the Baltics,CEB,1993-01-01,12246,61
-Central Europe and the Baltics,CEB,1994-01-01,12361,62
-Central Europe and the Baltics,CEB,1995-01-01,12574.7,63
-Central Europe and the Baltics,CEB,1996-01-01,13142.7,64
-Central Europe and the Baltics,CEB,1997-01-01,13622,65
-Central Europe and the Baltics,CEB,1998-01-01,14138.7,66
-Central Europe and the Baltics,CEB,1999-01-01,14572.3,67
-Central Europe and the Baltics,CEB,2000-01-01,15514.1,68
-Central Europe and the Baltics,CEB,2001-01-01,15537.7,69
-Central Europe and the Baltics,CEB,2002-01-01,16220.8,70
-Central Europe and the Baltics,CEB,2003-01-01,16944.7,71
-Central Europe and the Baltics,CEB,2004-01-01,17822.7,72
-Central Europe and the Baltics,CEB,2005-01-01,18188.5,73
-Central Europe and the Baltics,CEB,2006-01-01,19319.2,74
-Central Europe and the Baltics,CEB,2007-01-01,19794.7,75
-Central Europe and the Baltics,CEB,2008-01-01,20909.8,76
-Central Europe and the Baltics,CEB,2009-01-01,20275,77
-Central Europe and the Baltics,CEB,2010-01-01,20227.1,78
-Central Europe and the Baltics,CEB,2011-01-01,21058,79
-East Asia & Pacific (all income levels),EAS,1981-01-01,36706,80
-East Asia & Pacific (all income levels),EAS,1985-01-01,42911,81
-East Asia & Pacific (all income levels),EAS,1986-01-01,49651,82
-East Asia & Pacific (all income levels),EAS,1987-01-01,49325,83
-East Asia & Pacific (all income levels),EAS,1988-01-01,55096,84
-East Asia & Pacific (all income levels),EAS,1989-01-01,59669,85
-East Asia & Pacific (all income levels),EAS,1990-01-01,63365,86
-East Asia & Pacific (all income levels),EAS,1991-01-01,64815,87
-East Asia & Pacific (all income levels),EAS,1992-01-01,72445,88
-East Asia & Pacific (all income levels),EAS,1993-01-01,73812,89
-East Asia & Pacific (all income levels),EAS,1994-01-01,80290,90
-East Asia & Pacific (all income levels),EAS,1995-01-01,82585.5,91
-East Asia & Pacific (all income levels),EAS,1996-01-01,89930.6,92
-East Asia & Pacific (all income levels),EAS,1997-01-01,94616.3,93
-East Asia & Pacific (all income levels),EAS,1998-01-01,101153.6,94
-East Asia & Pacific (all income levels),EAS,1999-01-01,106853.2,95
-East Asia & Pacific (all income levels),EAS,2000-01-01,113881.7,96
-East Asia & Pacific (all income levels),EAS,2001-01-01,117690.8,97
-East Asia & Pacific (all income levels),EAS,2002-01-01,121031.1,98
-East Asia & Pacific (all income levels),EAS,2003-01-01,131164.7,99
-East Asia & Pacific (all income levels),EAS,2004-01-01,140934.9,100
-East Asia & Pacific (all income levels),EAS,2005-01-01,149542,101
-East Asia & Pacific (all income levels),EAS,2006-01-01,161525.2,102
-East Asia & Pacific (all income levels),EAS,2007-01-01,169112.4,103
-East Asia & Pacific (all income levels),EAS,2008-01-01,182046.3,104
-East Asia & Pacific (all income levels),EAS,2009-01-01,190621.5,105
-East Asia & Pacific (all income levels),EAS,2010-01-01,197490,106
-East Asia & Pacific (all income levels),EAS,2011-01-01,211521.8,107
-East Asia & Pacific (developing only),EAP,1981-01-01,1100,108
-East Asia & Pacific (developing only),EAP,1985-01-01,1943,109
-East Asia & Pacific (developing only),EAP,1986-01-01,3716,110
-East Asia & Pacific (developing only),EAP,1987-01-01,3939,111
-East Asia & Pacific (developing only),EAP,1988-01-01,5472,112
-East Asia & Pacific (developing only),EAP,1989-01-01,6322,113
-East Asia & Pacific (developing only),EAP,1990-01-01,7214,114
-East Asia & Pacific (developing only),EAP,1991-01-01,7139,115
-East Asia & Pacific (developing only),EAP,1992-01-01,7908,116
-East Asia & Pacific (developing only),EAP,1993-01-01,8594,117
-East Asia & Pacific (developing only),EAP,1994-01-01,8964,118
-East Asia & Pacific (developing only),EAP,1995-01-01,10237.1,119
-East Asia & Pacific (developing only),EAP,1996-01-01,11765.5,120
-East Asia & Pacific (developing only),EAP,1997-01-01,13445.4,121
-East Asia & Pacific (developing only),EAP,1998-01-01,15194.9,122
-East Asia & Pacific (developing only),EAP,1999-01-01,17283.5,123
-East Asia & Pacific (developing only),EAP,2000-01-01,20196,124
-East Asia & Pacific (developing only),EAP,2001-01-01,22910.1,125
-East Asia & Pacific (developing only),EAP,2002-01-01,25188.4,126
-East Asia & Pacific (developing only),EAP,2003-01-01,30909.9,127
-East Asia & Pacific (developing only),EAP,2004-01-01,37194.4,128
-East Asia & Pacific (developing only),EAP,2005-01-01,44187.7,129
-East Asia & Pacific (developing only),EAP,2006-01-01,52626.5,130
-East Asia & Pacific (developing only),EAP,2007-01-01,60170.9,131
-East Asia & Pacific (developing only),EAP,2008-01-01,69157,132
-East Asia & Pacific (developing only),EAP,2009-01-01,78388.8,133
-East Asia & Pacific (developing only),EAP,2010-01-01,84706.3,134
-East Asia & Pacific (developing only),EAP,2011-01-01,95382.3,135
-Euro area,EMU,1981-01-01,70894,136
-Euro area,EMU,1985-01-01,76124,137
-Euro area,EMU,1986-01-01,80924,138
-Euro area,EMU,1987-01-01,79869,139
-Euro area,EMU,1988-01-01,87042,140
-Euro area,EMU,1989-01-01,95320,141
-Euro area,EMU,1990-01-01,98105,142
-Euro area,EMU,1991-01-01,100915,143
-Euro area,EMU,1992-01-01,111541,144
-Euro area,EMU,1993-01-01,112270,145
-Euro area,EMU,1994-01-01,122852,146
-Euro area,EMU,1995-01-01,126698.5,147
-Euro area,EMU,1996-01-01,133335.7,148
-Euro area,EMU,1997-01-01,137783.7,149
-Euro area,EMU,1998-01-01,142786.1,150
-Euro area,EMU,1999-01-01,144006.4,151
-Euro area,EMU,2000-01-01,147219.2,152
-Euro area,EMU,2001-01-01,147343.2,153
-Euro area,EMU,2002-01-01,149241.4,154
-Euro area,EMU,2003-01-01,151141,155
-Euro area,EMU,2004-01-01,155729.4,156
-Euro area,EMU,2005-01-01,159695.5,157
-Euro area,EMU,2006-01-01,165188.8,158
-Euro area,EMU,2007-01-01,167888.1,159
-Euro area,EMU,2008-01-01,171949.1,160
-Euro area,EMU,2009-01-01,172089.5,161
-Euro area,EMU,2010-01-01,172875.4,162
-Euro area,EMU,2011-01-01,176189,163
-Europe & Central Asia (all income levels),ECS,1981-01-01,124958,164
-Europe & Central Asia (all income levels),ECS,1985-01-01,132572,165
-Europe & Central Asia (all income levels),ECS,1986-01-01,146249,166
-Europe & Central Asia (all income levels),ECS,1987-01-01,142493,167
-Europe & Central Asia (all income levels),ECS,1992-01-01,188855,168
-Europe & Central Asia (all income levels),ECS,1993-01-01,214253,169
-Europe & Central Asia (all income levels),ECS,1994-01-01,230694,170
-Europe & Central Asia (all income levels),ECS,1995-01-01,231442.3,171
-Europe & Central Asia (all income levels),ECS,1996-01-01,240081.3,172
-Europe & Central Asia (all income levels),ECS,1997-01-01,244938,173
-Europe & Central Asia (all income levels),ECS,1998-01-01,250370.6,174
-Europe & Central Asia (all income levels),ECS,1999-01-01,253450.4,175
-Europe & Central Asia (all income levels),ECS,2000-01-01,259602.3,176
-Europe & Central Asia (all income levels),ECS,2001-01-01,255878.9,177
-Europe & Central Asia (all income levels),ECS,2002-01-01,258255.5,178
-Europe & Central Asia (all income levels),ECS,2003-01-01,261722.9,179
-Europe & Central Asia (all income levels),ECS,2004-01-01,269380.9,180
-Europe & Central Asia (all income levels),ECS,2005-01-01,274440,181
-Europe & Central Asia (all income levels),ECS,2006-01-01,282667.4,182
-Europe & Central Asia (all income levels),ECS,2007-01-01,287427.7,183
-Europe & Central Asia (all income levels),ECS,2008-01-01,291641.9,184
-Europe & Central Asia (all income levels),ECS,2009-01-01,290581.7,185
-Europe & Central Asia (all income levels),ECS,2010-01-01,291202.7,186
-Europe & Central Asia (all income levels),ECS,2011-01-01,297604.3,187
-Europe & Central Asia (developing only),ECA,1986-01-01,4026,188
-Europe & Central Asia (developing only),ECA,1987-01-01,3819,189
-Europe & Central Asia (developing only),ECA,1992-01-01,4991,190
-Europe & Central Asia (developing only),ECA,1993-01-01,9740,191
-Europe & Central Asia (developing only),ECA,1994-01-01,10118,192
-Europe & Central Asia (developing only),ECA,1995-01-01,9438.5,193
-Europe & Central Asia (developing only),ECA,1996-01-01,9866.4,194
-Europe & Central Asia (developing only),ECA,1997-01-01,10243.2,195
-Europe & Central Asia (developing only),ECA,1998-01-01,10591,196
-Europe & Central Asia (developing only),ECA,1999-01-01,11055.3,197
-Europe & Central Asia (developing only),ECA,2000-01-01,11497,198
-Europe & Central Asia (developing only),ECA,2001-01-01,11822.3,199
-Europe & Central Asia (developing only),ECA,2002-01-01,12895.2,200
-Europe & Central Asia (developing only),ECA,2003-01-01,13552,201
-Europe & Central Asia (developing only),ECA,2004-01-01,14997.4,202
-Europe & Central Asia (developing only),ECA,2005-01-01,15578.1,203
-Europe & Central Asia (developing only),ECA,2006-01-01,16252.7,204
-Europe & Central Asia (developing only),ECA,2007-01-01,17382,205
-Europe & Central Asia (developing only),ECA,2008-01-01,17380.3,206
-Europe & Central Asia (developing only),ECA,2009-01-01,16929.4,207
-Europe & Central Asia (developing only),ECA,2010-01-01,16507.5,208
-Europe & Central Asia (developing only),ECA,2011-01-01,17209.1,209
-European Union,EUU,1981-01-01,117952,210
-European Union,EUU,1985-01-01,125222,211
-European Union,EUU,1986-01-01,138007,212
-European Union,EUU,1987-01-01,134494,213
-European Union,EUU,1988-01-01,144541,214
-European Union,EUU,1989-01-01,156182,215
-European Union,EUU,1990-01-01,159455,216
-European Union,EUU,1991-01-01,162950,217
-European Union,EUU,1992-01-01,177236,218
-European Union,EUU,1993-01-01,178826,219
-European Union,EUU,1994-01-01,192108,220
-European Union,EUU,1995-01-01,196496.6,221
-European Union,EUU,1996-01-01,204588.2,222
-European Union,EUU,1997-01-01,209480.1,223
-European Union,EUU,1998-01-01,215389.2,224
-European Union,EUU,1999-01-01,217832.5,225
-European Union,EUU,2000-01-01,223369.1,226
-European Union,EUU,2001-01-01,221122.5,227
-European Union,EUU,2002-01-01,222439.4,228
-European Union,EUU,2003-01-01,225664.1,229
-European Union,EUU,2004-01-01,231361,230
-European Union,EUU,2005-01-01,236075.9,231
-European Union,EUU,2006-01-01,243851.2,232
-European Union,EUU,2007-01-01,247078,233
-European Union,EUU,2008-01-01,251149.5,234
-European Union,EUU,2009-01-01,249925.6,235
-European Union,EUU,2010-01-01,251275,236
-European Union,EUU,2011-01-01,255770.8,237
-Fragile and conflict affected situations,FCS,1986-01-01,622,238
-Fragile and conflict affected situations,FCS,1987-01-01,560,239
-Fragile and conflict affected situations,FCS,1988-01-01,647,240
-Fragile and conflict affected situations,FCS,1989-01-01,630,241
-Fragile and conflict affected situations,FCS,1990-01-01,565,242
-Fragile and conflict affected situations,FCS,1991-01-01,450,243
-Fragile and conflict affected situations,FCS,1992-01-01,482,244
-Fragile and conflict affected situations,FCS,1993-01-01,459,245
-Fragile and conflict affected situations,FCS,1994-01-01,478,246
-Fragile and conflict affected situations,FCS,1995-01-01,466.9,247
-Fragile and conflict affected situations,FCS,1996-01-01,400.9,248
-Fragile and conflict affected situations,FCS,1997-01-01,445.6,249
-Fragile and conflict affected situations,FCS,1998-01-01,416.9,250
-Fragile and conflict affected situations,FCS,1999-01-01,408.7,251
-Fragile and conflict affected situations,FCS,2000-01-01,405.9,252
-Fragile and conflict affected situations,FCS,2001-01-01,426.8,253
-Fragile and conflict affected situations,FCS,2002-01-01,388.3,254
-Fragile and conflict affected situations,FCS,2003-01-01,441.3,255
-Fragile and conflict affected situations,FCS,2004-01-01,420.3,256
-Fragile and conflict affected situations,FCS,2005-01-01,451.2,257
-Fragile and conflict affected situations,FCS,2006-01-01,499.2,258
-Fragile and conflict affected situations,FCS,2007-01-01,551.3,259
-Fragile and conflict affected situations,FCS,2008-01-01,513.1,260
-Fragile and conflict affected situations,FCS,2009-01-01,581.2,261
-Fragile and conflict affected situations,FCS,2010-01-01,628.5,262
-Fragile and conflict affected situations,FCS,2011-01-01,639,263
-Heavily indebted poor countries (HIPC),HPC,1986-01-01,573,264
-Heavily indebted poor countries (HIPC),HPC,1987-01-01,558,265
-Heavily indebted poor countries (HIPC),HPC,1988-01-01,630,266
-Heavily indebted poor countries (HIPC),HPC,1989-01-01,591,267
-Heavily indebted poor countries (HIPC),HPC,1990-01-01,611,268
-Heavily indebted poor countries (HIPC),HPC,1991-01-01,635,269
-Heavily indebted poor countries (HIPC),HPC,1992-01-01,701,270
-Heavily indebted poor countries (HIPC),HPC,1993-01-01,684,271
-Heavily indebted poor countries (HIPC),HPC,1994-01-01,816,272
-Heavily indebted poor countries (HIPC),HPC,1995-01-01,819.7,273
-Heavily indebted poor countries (HIPC),HPC,1996-01-01,823.9,274
-Heavily indebted poor countries (HIPC),HPC,1997-01-01,901.5,275
-Heavily indebted poor countries (HIPC),HPC,1998-01-01,884.5,276
-Heavily indebted poor countries (HIPC),HPC,1999-01-01,893.8,277
-Heavily indebted poor countries (HIPC),HPC,2000-01-01,914,278
-Heavily indebted poor countries (HIPC),HPC,2001-01-01,857.4,279
-Heavily indebted poor countries (HIPC),HPC,2002-01-01,941.6,280
-Heavily indebted poor countries (HIPC),HPC,2003-01-01,980.8,281
-Heavily indebted poor countries (HIPC),HPC,2004-01-01,1047.5,282
-Heavily indebted poor countries (HIPC),HPC,2005-01-01,1094.9,283
-Heavily indebted poor countries (HIPC),HPC,2006-01-01,1213,284
-Heavily indebted poor countries (HIPC),HPC,2007-01-01,1330.6,285
-Heavily indebted poor countries (HIPC),HPC,2008-01-01,1303.5,286
-Heavily indebted poor countries (HIPC),HPC,2009-01-01,1369.7,287
-Heavily indebted poor countries (HIPC),HPC,2010-01-01,1412.3,288
-Heavily indebted poor countries (HIPC),HPC,2011-01-01,1472.6,289
-High income,HIC,1981-01-01,308200,290
-High income,HIC,1985-01-01,329457,291
-High income,HIC,1986-01-01,393830,292
-High income,HIC,1987-01-01,383889,293
-High income,HIC,1988-01-01,404286,294
-High income,HIC,1989-01-01,430593,295
-High income,HIC,1990-01-01,442134,296
-High income,HIC,1991-01-01,449598,297
-High income,HIC,1992-01-01,478622,298
-High income,HIC,1993-01-01,498623,299
-High income,HIC,1994-01-01,523911,300
-High income,HIC,1995-01-01,519433.1,301
-High income,HIC,1996-01-01,533437,302
-High income,HIC,1997-01-01,536795.6,303
-High income,HIC,1998-01-01,546824.6,304
-High income,HIC,1999-01-01,550485.8,305
-High income,HIC,2000-01-01,565979.1,306
-High income,HIC,2001-01-01,560119.8,307
-High income,HIC,2002-01-01,563105.8,308
-High income,HIC,2003-01-01,577782.9,309
-High income,HIC,2004-01-01,593864.3,310
-High income,HIC,2005-01-01,605043.6,311
-High income,HIC,2006-01-01,621497.7,312
-High income,HIC,2007-01-01,626690.3,313
-High income,HIC,2008-01-01,638772.8,314
-High income,HIC,2009-01-01,633431.9,315
-High income,HIC,2010-01-01,397563.6,316
-High income,HIC,2011-01-01,407338.8,317
-High income: nonOECD,NOC,1981-01-01,490,318
-High income: nonOECD,NOC,1985-01-01,976,319
-High income: nonOECD,NOC,1986-01-01,2252,320
-High income: nonOECD,NOC,1987-01-01,3104,321
-High income: nonOECD,NOC,1992-01-01,6958,322
-High income: nonOECD,NOC,1993-01-01,27334,323
-High income: nonOECD,NOC,1994-01-01,30392,324
-High income: nonOECD,NOC,1995-01-01,26899.2,325
-High income: nonOECD,NOC,1996-01-01,27833.7,326
-High income: nonOECD,NOC,1997-01-01,27931.6,327
-High income: nonOECD,NOC,1998-01-01,27686.5,328
-High income: nonOECD,NOC,1999-01-01,28299.7,329
-High income: nonOECD,NOC,2000-01-01,29262.7,330
-High income: nonOECD,NOC,2001-01-01,28604,331
-High income: nonOECD,NOC,2002-01-01,29319.4,332
-High income: nonOECD,NOC,2003-01-01,29815.4,333
-High income: nonOECD,NOC,2004-01-01,31495.6,334
-High income: nonOECD,NOC,2005-01-01,32034.5,335
-High income: nonOECD,NOC,2006-01-01,33073.4,336
-High income: nonOECD,NOC,2007-01-01,33980.5,337
-High income: nonOECD,NOC,2008-01-01,35601,338
-High income: nonOECD,NOC,2009-01-01,35958.4,339
-High income: nonOECD,NOC,2010-01-01,36276.5,340
-High income: nonOECD,NOC,2011-01-01,38438.2,341
-High income: OECD,OEC,1981-01-01,307710,342
-High income: OECD,OEC,1985-01-01,328481,343
-High income: OECD,OEC,1986-01-01,391578,344
-High income: OECD,OEC,1987-01-01,380785,345
-High income: OECD,OEC,1988-01-01,400732,346
-High income: OECD,OEC,1989-01-01,426371,347
-High income: OECD,OEC,1990-01-01,437305,348
-High income: OECD,OEC,1991-01-01,444574,349
-High income: OECD,OEC,1992-01-01,471664,350
-High income: OECD,OEC,1993-01-01,471289,351
-High income: OECD,OEC,1994-01-01,493519,352
-High income: OECD,OEC,1995-01-01,492533.9,353
-High income: OECD,OEC,1996-01-01,505603.3,354
-High income: OECD,OEC,1997-01-01,508864,355
-High income: OECD,OEC,1998-01-01,519138.1,356
-High income: OECD,OEC,1999-01-01,522186.1,357
-High income: OECD,OEC,2000-01-01,536716.4,358
-High income: OECD,OEC,2001-01-01,531515.8,359
-High income: OECD,OEC,2002-01-01,533786.4,360
-High income: OECD,OEC,2003-01-01,547967.5,361
-High income: OECD,OEC,2004-01-01,562368.7,362
-High income: OECD,OEC,2005-01-01,573009.1,363
-High income: OECD,OEC,2006-01-01,588424.3,364
-High income: OECD,OEC,2007-01-01,592709.8,365
-High income: OECD,OEC,2008-01-01,603171.8,366
-High income: OECD,OEC,2009-01-01,597473.5,367
-High income: OECD,OEC,2010-01-01,361287.1,368
-High income: OECD,OEC,2011-01-01,368900.6,369
-Latin America & Caribbean (all income levels),LCN,1986-01-01,5578,370
-Latin America & Caribbean (all income levels),LCN,1987-01-01,5649,371
-Latin America & Caribbean (all income levels),LCN,1988-01-01,5618,372
-Latin America & Caribbean (all income levels),LCN,1989-01-01,6386,373
-Latin America & Caribbean (all income levels),LCN,1990-01-01,6862,374
-Latin America & Caribbean (all income levels),LCN,1991-01-01,7030,375
-Latin America & Caribbean (all income levels),LCN,1992-01-01,7894,376
-Latin America & Caribbean (all income levels),LCN,1993-01-01,7954,377
-Latin America & Caribbean (all income levels),LCN,1994-01-01,8485,378
-Latin America & Caribbean (all income levels),LCN,1995-01-01,9519.3,379
-Latin America & Caribbean (all income levels),LCN,1996-01-01,10503.8,380
-Latin America & Caribbean (all income levels),LCN,1997-01-01,11693.9,381
-Latin America & Caribbean (all income levels),LCN,1998-01-01,13005.8,382
-Latin America & Caribbean (all income levels),LCN,1999-01-01,13988.9,383
-Latin America & Caribbean (all income levels),LCN,2000-01-01,15055.8,384
-Latin America & Caribbean (all income levels),LCN,2001-01-01,16074,385
-Latin America & Caribbean (all income levels),LCN,2002-01-01,17456.6,386
-Latin America & Caribbean (all income levels),LCN,2003-01-01,18217.2,387
-Latin America & Caribbean (all income levels),LCN,2004-01-01,19709.7,388
-Latin America & Caribbean (all income levels),LCN,2005-01-01,20432.1,389
-Latin America & Caribbean (all income levels),LCN,2006-01-01,21729.9,390
-Latin America & Caribbean (all income levels),LCN,2007-01-01,23337.2,391
-Latin America & Caribbean (all income levels),LCN,2008-01-01,24743.2,392
-Latin America & Caribbean (all income levels),LCN,2009-01-01,24033.6,393
-Latin America & Caribbean (all income levels),LCN,2010-01-01,20283.9,394
-Latin America & Caribbean (all income levels),LCN,2011-01-01,21218.1,395
-Latin America & Caribbean (developing only),LAC,1986-01-01,4804,396
-Latin America & Caribbean (developing only),LAC,1987-01-01,4937,397
-Latin America & Caribbean (developing only),LAC,1988-01-01,4833,398
-Latin America & Caribbean (developing only),LAC,1989-01-01,5519,399
-Latin America & Caribbean (developing only),LAC,1990-01-01,5914,400
-Latin America & Caribbean (developing only),LAC,1991-01-01,6088,401
-Latin America & Caribbean (developing only),LAC,1992-01-01,6906,402
-Latin America & Caribbean (developing only),LAC,1993-01-01,6919,403
-Latin America & Caribbean (developing only),LAC,1994-01-01,7527,404
-Latin America & Caribbean (developing only),LAC,1995-01-01,8460.2,405
-Latin America & Caribbean (developing only),LAC,1996-01-01,9415.5,406
-Latin America & Caribbean (developing only),LAC,1997-01-01,10540.7,407
-Latin America & Caribbean (developing only),LAC,1998-01-01,11803.8,408
-Latin America & Caribbean (developing only),LAC,1999-01-01,12724.8,409
-Latin America & Caribbean (developing only),LAC,2000-01-01,13723.9,410
-Latin America & Caribbean (developing only),LAC,2001-01-01,14698.1,411
-Latin America & Caribbean (developing only),LAC,2002-01-01,15916.8,412
-Latin America & Caribbean (developing only),LAC,2003-01-01,16549.2,413
-Latin America & Caribbean (developing only),LAC,2004-01-01,17970.9,414
-Latin America & Caribbean (developing only),LAC,2005-01-01,18601.4,415
-Latin America & Caribbean (developing only),LAC,2006-01-01,19837.8,416
-Latin America & Caribbean (developing only),LAC,2007-01-01,21293.2,417
-Latin America & Caribbean (developing only),LAC,2008-01-01,22639.2,418
-Latin America & Caribbean (developing only),LAC,2009-01-01,21855.1,419
-Latin America & Caribbean (developing only),LAC,2010-01-01,18109.3,420
-Latin America & Caribbean (developing only),LAC,2011-01-01,18868.9,421
-Least developed countries: UN classification,LDC,1986-01-01,618,422
-Least developed countries: UN classification,LDC,1987-01-01,569,423
-Least developed countries: UN classification,LDC,1988-01-01,629,424
-Least developed countries: UN classification,LDC,1989-01-01,584,425
-Least developed countries: UN classification,LDC,1990-01-01,603,426
-Least developed countries: UN classification,LDC,1991-01-01,597,427
-Least developed countries: UN classification,LDC,1992-01-01,692,428
-Least developed countries: UN classification,LDC,1993-01-01,692,429
-Least developed countries: UN classification,LDC,1994-01-01,767,430
-Least developed countries: UN classification,LDC,1995-01-01,845.1,431
-Least developed countries: UN classification,LDC,1996-01-01,818.1,432
-Least developed countries: UN classification,LDC,1997-01-01,836.9,433
-Least developed countries: UN classification,LDC,1998-01-01,837.6,434
-Least developed countries: UN classification,LDC,1999-01-01,881.5,435
-Least developed countries: UN classification,LDC,2000-01-01,885.2,436
-Least developed countries: UN classification,LDC,2001-01-01,874,437
-Least developed countries: UN classification,LDC,2002-01-01,896.1,438
-Least developed countries: UN classification,LDC,2003-01-01,968.3,439
-Least developed countries: UN classification,LDC,2004-01-01,1054,440
-Least developed countries: UN classification,LDC,2005-01-01,1076.5,441
-Least developed countries: UN classification,LDC,2006-01-01,1242.5,442
-Least developed countries: UN classification,LDC,2007-01-01,1327.2,443
-Least developed countries: UN classification,LDC,2008-01-01,1264.8,444
-Least developed countries: UN classification,LDC,2009-01-01,1398.9,445
-Least developed countries: UN classification,LDC,2010-01-01,1421.8,446
-Least developed countries: UN classification,LDC,2011-01-01,1537.5,447
-Low & middle income,LMY,1986-01-01,29285,448
-Low & middle income,LMY,1987-01-01,28401,449
-Low & middle income,LMY,1988-01-01,29807,450
-Low & middle income,LMY,1989-01-01,32914,451
-Low & middle income,LMY,1990-01-01,33231,452
-Low & middle income,LMY,1991-01-01,34051,453
-Low & middle income,LMY,1992-01-01,36886,454
-Low & middle income,LMY,1993-01-01,41966,455
-Low & middle income,LMY,1994-01-01,43720,456
-Low & middle income,LMY,1995-01-01,44704.3,457
-Low & middle income,LMY,1996-01-01,47756.8,458
-Low & middle income,LMY,1997-01-01,51092.4,459
-Low & middle income,LMY,1998-01-01,54994.9,460
-Low & middle income,LMY,1999-01-01,59147.6,461
-Low & middle income,LMY,2000-01-01,63927.8,462
-Low & middle income,LMY,2001-01-01,68757.1,463
-Low & middle income,LMY,2002-01-01,74789.3,464
-Low & middle income,LMY,2003-01-01,83393.3,465
-Low & middle income,LMY,2004-01-01,94038.0000000001,466
-Low & middle income,LMY,2005-01-01,104391.9,467
-Low & middle income,LMY,2006-01-01,118509.4,468
-Low & middle income,LMY,2007-01-01,131885.1,469
-Low & middle income,LMY,2008-01-01,144548.7,470
-Low & middle income,LMY,2009-01-01,155113.4,471
-Low & middle income,LMY,2010-01-01,159252.4,472
-Low & middle income,LMY,2011-01-01,174672.8,473
-Low income,LIC,1986-01-01,799,474
-Low income,LIC,1987-01-01,753,475
-Low income,LIC,1988-01-01,889,476
-Low income,LIC,1989-01-01,873,477
-Low income,LIC,1990-01-01,871,478
-Low income,LIC,1991-01-01,857,479
-Low income,LIC,1992-01-01,976,480
-Low income,LIC,1993-01-01,1110,481
-Low income,LIC,1994-01-01,1077,482
-Low income,LIC,1995-01-01,1102.4,483
-Low income,LIC,1996-01-01,1072.4,484
-Low income,LIC,1997-01-01,1096,485
-Low income,LIC,1998-01-01,1055,486
-Low income,LIC,1999-01-01,1075.6,487
-Low income,LIC,2000-01-01,1064,488
-Low income,LIC,2001-01-01,1073.8,489
-Low income,LIC,2002-01-01,1098.3,490
-Low income,LIC,2003-01-01,1139.9,491
-Low income,LIC,2004-01-01,1181.8,492
-Low income,LIC,2005-01-01,1186.3,493
-Low income,LIC,2006-01-01,1361.7,494
-Low income,LIC,2007-01-01,1511.5,495
-Low income,LIC,2008-01-01,1440.9,496
-Low income,LIC,2009-01-01,1545.6,497
-Low income,LIC,2010-01-01,1553.3,498
-Low income,LIC,2011-01-01,1612.1,499
-Lower middle income,LMC,1986-01-01,12928,500
-Lower middle income,LMC,1987-01-01,11981,501
-Lower middle income,LMC,1988-01-01,12012,502
-Lower middle income,LMC,1989-01-01,13074,503
-Lower middle income,LMC,1990-01-01,12471,504
-Lower middle income,LMC,1991-01-01,12913,505
-Lower middle income,LMC,1992-01-01,13650,506
-Lower middle income,LMC,1993-01-01,16687,507
-Lower middle income,LMC,1994-01-01,16959,508
-Lower middle income,LMC,1995-01-01,16025.1,509
-Lower middle income,LMC,1996-01-01,16131,510
-Lower middle income,LMC,1997-01-01,15929.1,511
-Lower middle income,LMC,1998-01-01,16242.1,512
-Lower middle income,LMC,1999-01-01,16748,513
-Lower middle income,LMC,2000-01-01,16936.2,514
-Lower middle income,LMC,2001-01-01,17212.7,515
-Lower middle income,LMC,2002-01-01,18347.1,516
-Lower middle income,LMC,2003-01-01,19178.8,517
-Lower middle income,LMC,2004-01-01,20134.3,518
-Lower middle income,LMC,2005-01-01,21712.7,519
-Lower middle income,LMC,2006-01-01,23899.5,520
-Lower middle income,LMC,2007-01-01,25637.6,521
-Lower middle income,LMC,2008-01-01,26897.8,522
-Lower middle income,LMC,2009-01-01,27960.3,523
-Lower middle income,LMC,2010-01-01,29306.3,524
-Lower middle income,LMC,2011-01-01,31345.1,525
-Middle East & North Africa (all income levels),MEA,1986-01-01,7653,526
-Middle East & North Africa (all income levels),MEA,1987-01-01,7601,527
-Middle East & North Africa (all income levels),MEA,1988-01-01,7883,528
-Middle East & North Africa (all income levels),MEA,1989-01-01,8379,529
-Middle East & North Africa (all income levels),MEA,1990-01-01,8213,530
-Middle East & North Africa (all income levels),MEA,1991-01-01,8126,531
-Middle East & North Africa (all income levels),MEA,1992-01-01,8396,532
-Middle East & North Africa (all income levels),MEA,1993-01-01,8810,533
-Middle East & North Africa (all income levels),MEA,1994-01-01,9128,534
-Middle East & North Africa (all income levels),MEA,1995-01-01,9495.7,535
-Middle East & North Africa (all income levels),MEA,1996-01-01,9500.4,536
-Middle East & North Africa (all income levels),MEA,1997-01-01,10011.5,537
-Middle East & North Africa (all income levels),MEA,1998-01-01,10249.6,538
-Middle East & North Africa (all income levels),MEA,1999-01-01,10427.1,539
-Middle East & North Africa (all income levels),MEA,2000-01-01,11154.5,540
-Middle East & North Africa (all income levels),MEA,2001-01-01,11453.6,541
-Middle East & North Africa (all income levels),MEA,2002-01-01,11958.3,542
-Middle East & North Africa (all income levels),MEA,2003-01-01,12902.8,543
-Middle East & North Africa (all income levels),MEA,2004-01-01,13287.8,544
-Middle East & North Africa (all income levels),MEA,2005-01-01,13881.5,545
-Middle East & North Africa (all income levels),MEA,2006-01-01,15206.1,546
-Middle East & North Africa (all income levels),MEA,2007-01-01,16628.2,547
-Middle East & North Africa (all income levels),MEA,2008-01-01,17923.2,548
-Middle East & North Africa (all income levels),MEA,2009-01-01,19171.2,549
-Middle East & North Africa (all income levels),MEA,2010-01-01,20128.6,550
-Middle East & North Africa (all income levels),MEA,2011-01-01,21995.8,551
-Middle East & North Africa (developing only),MNA,1986-01-01,1892,552
-Middle East & North Africa (developing only),MNA,1987-01-01,1804,553
-Middle East & North Africa (developing only),MNA,1988-01-01,1994,554
-Middle East & North Africa (developing only),MNA,1989-01-01,2195,555
-Middle East & North Africa (developing only),MNA,1990-01-01,2089,556
-Middle East & North Africa (developing only),MNA,1991-01-01,2258,557
-Middle East & North Africa (developing only),MNA,1992-01-01,2208,558
-Middle East & North Africa (developing only),MNA,1993-01-01,2177,559
-Middle East & North Africa (developing only),MNA,1994-01-01,2412,560
-Middle East & North Africa (developing only),MNA,1995-01-01,2551.3,561
-Middle East & North Africa (developing only),MNA,1996-01-01,2535.2,562
-Middle East & North Africa (developing only),MNA,1997-01-01,2768.3,563
-Middle East & North Africa (developing only),MNA,1998-01-01,2997.7,564
-Middle East & North Africa (developing only),MNA,1999-01-01,3301.9,565
-Middle East & North Africa (developing only),MNA,2000-01-01,3742.9,566
-Middle East & North Africa (developing only),MNA,2001-01-01,4086.8,567
-Middle East & North Africa (developing only),MNA,2002-01-01,4433.4,568
-Middle East & North Africa (developing only),MNA,2003-01-01,5213.9,569
-Middle East & North Africa (developing only),MNA,2004-01-01,5617.2,570
-Middle East & North Africa (developing only),MNA,2005-01-01,6311.2,571
-Middle East & North Africa (developing only),MNA,2006-01-01,7392.6,572
-Middle East & North Africa (developing only),MNA,2007-01-01,8702.3,573
-Middle East & North Africa (developing only),MNA,2008-01-01,9925,574
-Middle East & North Africa (developing only),MNA,2009-01-01,11422.1,575
-Middle East & North Africa (developing only),MNA,2010-01-01,12218.6,576
-Middle East & North Africa (developing only),MNA,2011-01-01,13541.6,577
-Middle income,MIC,1981-01-01,22766,578
-Middle income,MIC,1985-01-01,21944,579
-Middle income,MIC,1986-01-01,28486,580
-Middle income,MIC,1987-01-01,27648,581
-Middle income,MIC,1988-01-01,28918,582
-Middle income,MIC,1989-01-01,32041,583
-Middle income,MIC,1990-01-01,32360,584
-Middle income,MIC,1991-01-01,33194,585
-Middle income,MIC,1992-01-01,35910,586
-Middle income,MIC,1993-01-01,40856,587
-Middle income,MIC,1994-01-01,42643,588
-Middle income,MIC,1995-01-01,43601.9,589
-Middle income,MIC,1996-01-01,46684.4,590
-Middle income,MIC,1997-01-01,49996.4,591
-Middle income,MIC,1998-01-01,53939.9,592
-Middle income,MIC,1999-01-01,58072,593
-Middle income,MIC,2000-01-01,62863.8,594
-Middle income,MIC,2001-01-01,67683.3,595
-Middle income,MIC,2002-01-01,73691,596
-Middle income,MIC,2003-01-01,82253.4,597
-Middle income,MIC,2004-01-01,92856.2000000001,598
-Middle income,MIC,2005-01-01,103205.6,599
-Middle income,MIC,2006-01-01,117147.7,600
-Middle income,MIC,2007-01-01,130373.6,601
-Middle income,MIC,2008-01-01,143107.8,602
-Middle income,MIC,2009-01-01,153567.8,603
-Middle income,MIC,2010-01-01,157699.1,604
-Middle income,MIC,2011-01-01,173060.7,605
-North America,NAC,1981-01-01,146718,606
-North America,NAC,1985-01-01,154427,607
-North America,NAC,1986-01-01,199137,608
-North America,NAC,1987-01-01,193320,609
-North America,NAC,1988-01-01,199053,610
-North America,NAC,1989-01-01,209725,611
-North America,NAC,1990-01-01,214351,612
-North America,NAC,1991-01-01,216918,613
-North America,NAC,1992-01-01,223044,614
-North America,NAC,1993-01-01,221221,615
-North America,NAC,1994-01-01,224334,616
-North America,NAC,1995-01-01,217076.7,617
-North America,NAC,1996-01-01,217003,618
-North America,NAC,1997-01-01,212532.8,619
-North America,NAC,1998-01-01,212632.1,620
-North America,NAC,1999-01-01,210129.5,621
-North America,NAC,2000-01-01,215444.3,622
-North America,NAC,2001-01-01,212538.8,623
-North America,NAC,2002-01-01,212837.6,624
-North America,NAC,2003-01-01,219999.1,625
-North America,NAC,2004-01-01,226329.6,626
-North America,NAC,2005-01-01,231426.2,627
-North America,NAC,2006-01-01,236478.2,628
-North America,NAC,2007-01-01,237731.9,629
-North America,NAC,2008-01-01,241519.7,630
-North America,NAC,2009-01-01,237617.7,631
-OECD members,OED,1981-01-01,310716,632
-OECD members,OED,1985-01-01,331454,633
-OECD members,OED,1986-01-01,394750,634
-OECD members,OED,1987-01-01,383935,635
-OECD members,OED,1988-01-01,403837,636
-OECD members,OED,1989-01-01,429932,637
-OECD members,OED,1990-01-01,440815,638
-OECD members,OED,1991-01-01,448308,639
-OECD members,OED,1992-01-01,475872,640
-OECD members,OED,1993-01-01,475681,641
-OECD members,OED,1994-01-01,498353,642
-OECD members,OED,1995-01-01,497949.7,643
-OECD members,OED,1996-01-01,511768.3,644
-OECD members,OED,1997-01-01,515637.9,645
-OECD members,OED,1998-01-01,526793.9,646
-OECD members,OED,1999-01-01,530491.9,647
-OECD members,OED,2000-01-01,545529.6,648
-OECD members,OED,2001-01-01,541267.7,649
-OECD members,OED,2002-01-01,544655.4,650
-OECD members,OED,2003-01-01,560115.5,651
-OECD members,OED,2004-01-01,576081.6,652
-OECD members,OED,2005-01-01,587376.2,653
-OECD members,OED,2006-01-01,603195.2,654
-OECD members,OED,2007-01-01,608026.2,655
-OECD members,OED,2008-01-01,618525.7,656
-OECD members,OED,2009-01-01,612307.2,657
-Other small states,OSS,1986-01-01,53,658
-Other small states,OSS,1987-01-01,41,659
-Other small states,OSS,1988-01-01,46,660
-Other small states,OSS,1989-01-01,53,661
-Other small states,OSS,1990-01-01,68,662
-Other small states,OSS,1991-01-01,66,663
-Other small states,OSS,1992-01-01,73,664
-Other small states,OSS,1993-01-01,81,665
-Other small states,OSS,1994-01-01,101,666
-Other small states,OSS,1995-01-01,102.7,667
-Other small states,OSS,1996-01-01,117.3,668
-Other small states,OSS,1997-01-01,112.2,669
-Other small states,OSS,1998-01-01,124,670
-Other small states,OSS,1999-01-01,135.2,671
-Other small states,OSS,2000-01-01,141.1,672
-Other small states,OSS,2001-01-01,149.4,673
-Other small states,OSS,2002-01-01,169,674
-Other small states,OSS,2003-01-01,169.1,675
-Other small states,OSS,2004-01-01,159.6,676
-Other small states,OSS,2005-01-01,148.3,677
-Other small states,OSS,2006-01-01,185.2,678
-Other small states,OSS,2007-01-01,170.7,679
-Other small states,OSS,2008-01-01,176.3,680
-Other small states,OSS,2009-01-01,164.3,681
-Other small states,OSS,2010-01-01,160.8,682
-Other small states,OSS,2011-01-01,181,683
-Pacific island small states,PSS,1986-01-01,37,684
-Pacific island small states,PSS,1987-01-01,35,685
-Pacific island small states,PSS,1988-01-01,28,686
-Pacific island small states,PSS,1989-01-01,18,687
-Pacific island small states,PSS,1990-01-01,21,688
-Pacific island small states,PSS,1991-01-01,26,689
-Pacific island small states,PSS,1992-01-01,27,690
-Pacific island small states,PSS,1993-01-01,34,691
-Pacific island small states,PSS,1994-01-01,23,692
-Pacific island small states,PSS,1995-01-01,22.7,693
-Pacific island small states,PSS,1996-01-01,17,694
-Pacific island small states,PSS,1997-01-01,25.2,695
-Pacific island small states,PSS,1998-01-01,19.2,696
-Pacific island small states,PSS,1999-01-01,30.4,697
-Pacific island small states,PSS,2000-01-01,24.2,698
-Pacific island small states,PSS,2001-01-01,22.7,699
-Pacific island small states,PSS,2002-01-01,21.2,700
-Pacific island small states,PSS,2003-01-01,26.8,701
-Pacific island small states,PSS,2004-01-01,36.6,702
-Pacific island small states,PSS,2005-01-01,33.4,703
-Pacific island small states,PSS,2006-01-01,40.8,704
-Pacific island small states,PSS,2007-01-01,44.3,705
-Pacific island small states,PSS,2008-01-01,37.9,706
-Pacific island small states,PSS,2009-01-01,41.6,707
-Pacific island small states,PSS,2010-01-01,28.1,708
-Pacific island small states,PSS,2011-01-01,35.7,709
-Small states,SST,1986-01-01,223,710
-Small states,SST,1987-01-01,228,711
-Small states,SST,1988-01-01,218,712
-Small states,SST,1989-01-01,216,713
-Small states,SST,1990-01-01,213,714
-Small states,SST,1991-01-01,221,715
-Small states,SST,1992-01-01,231,716
-Small states,SST,1993-01-01,249,717
-Small states,SST,1994-01-01,276,718
-Small states,SST,1995-01-01,274.4,719
-Small states,SST,1996-01-01,259.2,720
-Small states,SST,1997-01-01,269.1,721
-Small states,SST,1998-01-01,269.4,722
-Small states,SST,1999-01-01,283,723
-Small states,SST,2000-01-01,271.1,724
-Small states,SST,2001-01-01,309.4,725
-Small states,SST,2002-01-01,328.3,726
-Small states,SST,2003-01-01,331,727
-Small states,SST,2004-01-01,340.8,728
-Small states,SST,2005-01-01,321.2,729
-Small states,SST,2006-01-01,349.1,730
-Small states,SST,2007-01-01,370.6,731
-Small states,SST,2008-01-01,343.9,732
-Small states,SST,2009-01-01,338.9,733
-Small states,SST,2010-01-01,329.9,734
-Small states,SST,2011-01-01,369.6,735
-South Asia,SAS,1981-01-01,11725,736
-South Asia,SAS,1985-01-01,9586,737
-South Asia,SAS,1986-01-01,10284,738
-South Asia,SAS,1987-01-01,9484,739
-South Asia,SAS,1988-01-01,9344,740
-South Asia,SAS,1989-01-01,10229,741
-South Asia,SAS,1990-01-01,9700,742
-South Asia,SAS,1991-01-01,10042,743
-South Asia,SAS,1992-01-01,10639,744
-South Asia,SAS,1993-01-01,10371,745
-South Asia,SAS,1994-01-01,10500,746
-South Asia,SAS,1995-01-01,9967.1,747
-South Asia,SAS,1996-01-01,10266.1,748
-South Asia,SAS,1997-01-01,10123.9,749
-South Asia,SAS,1998-01-01,10478.8,750
-South Asia,SAS,1999-01-01,10783.2,751
-South Asia,SAS,2000-01-01,10841.4,752
-South Asia,SAS,2001-01-01,11380.8,753
-South Asia,SAS,2002-01-01,12306.4,754
-South Asia,SAS,2003-01-01,13223,755
-South Asia,SAS,2004-01-01,14162.5,756
-South Asia,SAS,2005-01-01,15531.1,757
-South Asia,SAS,2006-01-01,17784.2,758
-South Asia,SAS,2007-01-01,19385.6,759
-South Asia,SAS,2008-01-01,20372.8,760
-South Asia,SAS,2009-01-01,21439.3,761
-South Asia,SAS,2010-01-01,22462.4,762
-South Asia,SAS,2011-01-01,24249.3,763
-Sub-Saharan Africa (all income levels),SSF,1986-01-01,4563,764
-Sub-Saharan Africa (all income levels),SSF,1987-01-01,4418,765
-Sub-Saharan Africa (all income levels),SSF,1988-01-01,4459,766
-Sub-Saharan Africa (all income levels),SSF,1989-01-01,4393,767
-Sub-Saharan Africa (all income levels),SSF,1990-01-01,4244,768
-Sub-Saharan Africa (all income levels),SSF,1991-01-01,4293,769
-Sub-Saharan Africa (all income levels),SSF,1992-01-01,4235,770
-Sub-Saharan Africa (all income levels),SSF,1993-01-01,4168,771
-Sub-Saharan Africa (all income levels),SSF,1994-01-01,4200,772
-Sub-Saharan Africa (all income levels),SSF,1995-01-01,4050.8,773
-Sub-Saharan Africa (all income levels),SSF,1996-01-01,3908.6,774
-Sub-Saharan Africa (all income levels),SSF,1997-01-01,3971.6,775
-Sub-Saharan Africa (all income levels),SSF,1998-01-01,3929,776
-Sub-Saharan Africa (all income levels),SSF,1999-01-01,4001.1,777
-Sub-Saharan Africa (all income levels),SSF,2000-01-01,3926.9,778
-Sub-Saharan Africa (all income levels),SSF,2001-01-01,3860,779
-Sub-Saharan Africa (all income levels),SSF,2002-01-01,4049.6,780
-Sub-Saharan Africa (all income levels),SSF,2003-01-01,3946.5,781
-Sub-Saharan Africa (all income levels),SSF,2004-01-01,4096.9,782
-Sub-Saharan Africa (all income levels),SSF,2005-01-01,4182.6,783
-Sub-Saharan Africa (all income levels),SSF,2006-01-01,4616.1,784
-Sub-Saharan Africa (all income levels),SSF,2007-01-01,4952.4,785
-Sub-Saharan Africa (all income levels),SSF,2008-01-01,5074.4,786
-Sub-Saharan Africa (all income levels),SSF,2009-01-01,5080.3,787
-Sub-Saharan Africa (all income levels),SSF,2010-01-01,5248.4,788
-Sub-Saharan Africa (all income levels),SSF,2011-01-01,5422.3,789
-Sub-Saharan Africa (developing only),SSA,1986-01-01,4563,790
-Sub-Saharan Africa (developing only),SSA,1987-01-01,4418,791
-Sub-Saharan Africa (developing only),SSA,1988-01-01,4459,792
-Sub-Saharan Africa (developing only),SSA,1989-01-01,4391,793
-Sub-Saharan Africa (developing only),SSA,1990-01-01,4243,794
-Sub-Saharan Africa (developing only),SSA,1991-01-01,4293,795
-Sub-Saharan Africa (developing only),SSA,1992-01-01,4234,796
-Sub-Saharan Africa (developing only),SSA,1993-01-01,4165,797
-Sub-Saharan Africa (developing only),SSA,1994-01-01,4199,798
-Sub-Saharan Africa (developing only),SSA,1995-01-01,4050.1,799
-Sub-Saharan Africa (developing only),SSA,1996-01-01,3908.1,800
-Sub-Saharan Africa (developing only),SSA,1997-01-01,3970.9,801
-Sub-Saharan Africa (developing only),SSA,1998-01-01,3928.7,802
-Sub-Saharan Africa (developing only),SSA,1999-01-01,3998.9,803
-Sub-Saharan Africa (developing only),SSA,2000-01-01,3926.6,804
-Sub-Saharan Africa (developing only),SSA,2001-01-01,3859,805
-Sub-Saharan Africa (developing only),SSA,2002-01-01,4049.1,806
-Sub-Saharan Africa (developing only),SSA,2003-01-01,3945.3,807
-Sub-Saharan Africa (developing only),SSA,2004-01-01,4095.6,808
-Sub-Saharan Africa (developing only),SSA,2005-01-01,4182.4,809
-Sub-Saharan Africa (developing only),SSA,2006-01-01,4615.6,810
-Sub-Saharan Africa (developing only),SSA,2007-01-01,4951.1,811
-Sub-Saharan Africa (developing only),SSA,2008-01-01,5074.4,812
-Sub-Saharan Africa (developing only),SSA,2009-01-01,5078.7,813
-Sub-Saharan Africa (developing only),SSA,2010-01-01,5248.3,814
-Sub-Saharan Africa (developing only),SSA,2011-01-01,5421.6,815
-Upper middle income,UMC,1981-01-01,9201,816
-Upper middle income,UMC,1985-01-01,10675,817
-Upper middle income,UMC,1986-01-01,15558,818
-Upper middle income,UMC,1987-01-01,15667,819
-Upper middle income,UMC,1988-01-01,16906,820
-Upper middle income,UMC,1989-01-01,18967,821
-Upper middle income,UMC,1990-01-01,19889,822
-Upper middle income,UMC,1991-01-01,20281,823
-Upper middle income,UMC,1992-01-01,22260,824
-Upper middle income,UMC,1993-01-01,24169,825
-Upper middle income,UMC,1994-01-01,25684,826
-Upper middle income,UMC,1995-01-01,27576.8,827
-Upper middle income,UMC,1996-01-01,30553.4,828
-Upper middle income,UMC,1997-01-01,34067.3,829
-Upper middle income,UMC,1998-01-01,37697.8,830
-Upper middle income,UMC,1999-01-01,41324,831
-Upper middle income,UMC,2000-01-01,45927.6,832
-Upper middle income,UMC,2001-01-01,50470.6,833
-Upper middle income,UMC,2002-01-01,55343.9,834
-Upper middle income,UMC,2003-01-01,63074.6,835
-Upper middle income,UMC,2004-01-01,72721.9,836
-Upper middle income,UMC,2005-01-01,81492.9,837
-Upper middle income,UMC,2006-01-01,93248.2,838
-Upper middle income,UMC,2007-01-01,104736,839
-Upper middle income,UMC,2008-01-01,116210,840
-Upper middle income,UMC,2009-01-01,125607.5,841
-Upper middle income,UMC,2010-01-01,128392.8,842
-Upper middle income,UMC,2011-01-01,141715.6,843
-World,WLD,1981-01-01,331233,844
-World,WLD,1985-01-01,351652,845
-World,WLD,1986-01-01,423115,846
-World,WLD,1987-01-01,412290,847
-World,WLD,1988-01-01,434093,848
-World,WLD,1989-01-01,463507,849
-World,WLD,1990-01-01,475365,850
-World,WLD,1991-01-01,483649,851
-World,WLD,1992-01-01,515508,852
-World,WLD,1993-01-01,540589,853
-World,WLD,1994-01-01,567631,854
-World,WLD,1995-01-01,564137.4,855
-World,WLD,1996-01-01,581193.8,856
-World,WLD,1997-01-01,587888,857
-World,WLD,1998-01-01,601819.5,858
-World,WLD,1999-01-01,609633.4,859
-World,WLD,2000-01-01,629906.9,860
-World,WLD,2001-01-01,628876.9,861
-World,WLD,2002-01-01,637895.1,862
-World,WLD,2003-01-01,661176.2,863
-World,WLD,2004-01-01,687902.3,864
-World,WLD,2005-01-01,709435.5,865
-World,WLD,2006-01-01,740007.1,866
-World,WLD,2007-01-01,758575.4,867
-World,WLD,2008-01-01,783321.5,868
-World,WLD,2009-01-01,788545.3,869
-World,WLD,2010-01-01,556816,870
-World,WLD,2011-01-01,582011.6,871
+Country Name,Country Code,Date,Thevalue,theid
 Afghanistan,AFG,1986-01-01,4,872
 Afghanistan,AFG,1987-01-01,2,873
 Afghanistan,AFG,1988-01-01,5,874
@@ -1038,23 +166,23 @@ Argentina,ARG,1991-01-01,1499,1035
 Argentina,ARG,1992-01-01,1526,1036
 Argentina,ARG,1993-01-01,1585,1037
 Argentina,ARG,1994-01-01,1747,1038
-Argentina,ARG,1995-01-01,1967.2,1039
-Argentina,ARG,1996-01-01,2287.2,1040
-Argentina,ARG,1997-01-01,2450.8,1041
-Argentina,ARG,1998-01-01,2550.7,1042
-Argentina,ARG,1999-01-01,2635.8,1043
-Argentina,ARG,2000-01-01,2846.1,1044
-Argentina,ARG,2001-01-01,2930.7,1045
-Argentina,ARG,2002-01-01,3178.1,1046
-Argentina,ARG,2003-01-01,2919.8,1047
-Argentina,ARG,2004-01-01,2981.6,1048
-Argentina,ARG,2005-01-01,3058.4,1049
+Argentina,ARG,1995-01-01,"1,967.2",1039
+Argentina,ARG,1996-01-01,"2,287.2",1040
+Argentina,ARG,1997-01-01,"2,450.8",1041
+Argentina,ARG,1998-01-01,"2,550.7",1042
+Argentina,ARG,1999-01-01,"2,635.8",1043
+Argentina,ARG,2000-01-01,"2,846.1",1044
+Argentina,ARG,2001-01-01,"2,930.7",1045
+Argentina,ARG,2002-01-01,"3,178.1",1046
+Argentina,ARG,2003-01-01,"2,919.8",1047
+Argentina,ARG,2004-01-01,"2,981.6",1048
+Argentina,ARG,2005-01-01,"3,058.4",1049
 Argentina,ARG,2006-01-01,3264,1050
-Argentina,ARG,2007-01-01,3364.3,1051
-Argentina,ARG,2008-01-01,3567.1,1052
-Argentina,ARG,2009-01-01,3655.2,1053
-Argentina,ARG,2010-01-01,3767.6,1054
-Argentina,ARG,2011-01-01,3862.8,1055
+Argentina,ARG,2007-01-01,"3,364.3",1051
+Argentina,ARG,2008-01-01,"3,567.1",1052
+Argentina,ARG,2009-01-01,"3,655.2",1053
+Argentina,ARG,2010-01-01,"3,767.6",1054
+Argentina,ARG,2011-01-01,"3,862.8",1055
 Armenia,ARM,1986-01-01,0,1056
 Armenia,ARM,1987-01-01,0,1057
 Armenia,ARM,1992-01-01,21,1058
@@ -1088,23 +216,23 @@ Australia,AUS,1991-01-01,10742,1085
 Australia,AUS,1992-01-01,11452,1086
 Australia,AUS,1993-01-01,11929,1087
 Australia,AUS,1994-01-01,12695,1088
-Australia,AUS,1995-01-01,13125.4,1089
-Australia,AUS,1996-01-01,13623.3,1090
-Australia,AUS,1997-01-01,13815.7,1091
-Australia,AUS,1998-01-01,14307.4,1092
-Australia,AUS,1999-01-01,14341.1,1093
-Australia,AUS,2000-01-01,14588.6,1094
+Australia,AUS,1995-01-01,"13,125.4",1089
+Australia,AUS,1996-01-01,"13,623.3",1090
+Australia,AUS,1997-01-01,"13,815.7",1091
+Australia,AUS,1998-01-01,"14,307.4",1092
+Australia,AUS,1999-01-01,"14,341.1",1093
+Australia,AUS,2000-01-01,"14,588.6",1094
 Australia,AUS,2001-01-01,14484,1095
-Australia,AUS,2002-01-01,14255.2,1096
-Australia,AUS,2003-01-01,14933.6,1097
-Australia,AUS,2004-01-01,15588.9,1098
-Australia,AUS,2005-01-01,15974.4,1099
-Australia,AUS,2006-01-01,17217.1,1100
-Australia,AUS,2007-01-01,17833.8,1101
-Australia,AUS,2008-01-01,18776.5,1102
+Australia,AUS,2002-01-01,"14,255.2",1096
+Australia,AUS,2003-01-01,"14,933.6",1097
+Australia,AUS,2004-01-01,"15,588.9",1098
+Australia,AUS,2005-01-01,"15,974.4",1099
+Australia,AUS,2006-01-01,"17,217.1",1100
+Australia,AUS,2007-01-01,"17,833.8",1101
+Australia,AUS,2008-01-01,"18,776.5",1102
 Australia,AUS,2009-01-01,18932,1103
-Australia,AUS,2010-01-01,19516.7,1104
-Australia,AUS,2011-01-01,20602.6,1105
+Australia,AUS,2010-01-01,"19,516.7",1104
+Australia,AUS,2011-01-01,"20,602.6",1105
 Austria,AUT,1981-01-01,2160,1106
 Austria,AUT,1985-01-01,2179,1107
 Austria,AUT,1986-01-01,2342,1108
@@ -1117,22 +245,22 @@ Austria,AUT,1992-01-01,3047,1114
 Austria,AUT,1993-01-01,3051,1115
 Austria,AUT,1994-01-01,3177,1116
 Austria,AUT,1995-01-01,3425,1117
-Austria,AUT,1996-01-01,3646.2,1118
-Austria,AUT,1997-01-01,3947.4,1119
+Austria,AUT,1996-01-01,"3,646.2",1118
+Austria,AUT,1997-01-01,"3,947.4",1119
 Austria,AUT,1998-01-01,4074,1120
-Austria,AUT,1999-01-01,4157.8,1121
-Austria,AUT,2000-01-01,4257.1,1122
-Austria,AUT,2001-01-01,4479.5,1123
+Austria,AUT,1999-01-01,"4,157.8",1121
+Austria,AUT,2000-01-01,"4,257.1",1122
+Austria,AUT,2001-01-01,"4,479.5",1123
 Austria,AUT,2002-01-01,4460,1124
-Austria,AUT,2003-01-01,4692.1,1125
+Austria,AUT,2003-01-01,"4,692.1",1125
 Austria,AUT,2004-01-01,4716,1126
-Austria,AUT,2005-01-01,4567.9,1127
-Austria,AUT,2006-01-01,4614.3,1128
-Austria,AUT,2007-01-01,4827.2,1129
-Austria,AUT,2008-01-01,4815.6,1130
-Austria,AUT,2009-01-01,4833.2,1131
-Austria,AUT,2010-01-01,4922.8,1132
-Austria,AUT,2011-01-01,5102.5,1133
+Austria,AUT,2005-01-01,"4,567.9",1127
+Austria,AUT,2006-01-01,"4,614.3",1128
+Austria,AUT,2007-01-01,"4,827.2",1129
+Austria,AUT,2008-01-01,"4,815.6",1130
+Austria,AUT,2009-01-01,"4,833.2",1131
+Austria,AUT,2010-01-01,"4,922.8",1132
+Austria,AUT,2011-01-01,"5,102.5",1133
 Azerbaijan,AZE,1986-01-01,0,1134
 Azerbaijan,AZE,1987-01-01,0,1135
 Azerbaijan,AZE,1992-01-01,15,1136
@@ -1292,23 +420,23 @@ Belgium,BEL,1991-01-01,4164,1289
 Belgium,BEL,1992-01-01,4431,1290
 Belgium,BEL,1993-01-01,4512,1291
 Belgium,BEL,1994-01-01,4949,1292
-Belgium,BEL,1995-01-01,5171.6,1293
-Belgium,BEL,1996-01-01,5554.4,1294
-Belgium,BEL,1997-01-01,5531.8,1295
-Belgium,BEL,1998-01-01,5687.7,1296
-Belgium,BEL,1999-01-01,5712.5,1297
-Belgium,BEL,2000-01-01,5735.4,1298
-Belgium,BEL,2001-01-01,5827.3,1299
-Belgium,BEL,2002-01-01,6036.7,1300
-Belgium,BEL,2003-01-01,6303.8,1301
-Belgium,BEL,2004-01-01,6625.4,1302
-Belgium,BEL,2005-01-01,6847.2,1303
-Belgium,BEL,2006-01-01,6736.1,1304
-Belgium,BEL,2007-01-01,7077.8,1305
-Belgium,BEL,2008-01-01,7298.1,1306
-Belgium,BEL,2009-01-01,7221.9,1307
-Belgium,BEL,2010-01-01,7389.4,1308
-Belgium,BEL,2011-01-01,7483.9,1309
+Belgium,BEL,1995-01-01,"5,171.6",1293
+Belgium,BEL,1996-01-01,"5,554.4",1294
+Belgium,BEL,1997-01-01,"5,531.8",1295
+Belgium,BEL,1998-01-01,"5,687.7",1296
+Belgium,BEL,1999-01-01,"5,712.5",1297
+Belgium,BEL,2000-01-01,"5,735.4",1298
+Belgium,BEL,2001-01-01,"5,827.3",1299
+Belgium,BEL,2002-01-01,"6,036.7",1300
+Belgium,BEL,2003-01-01,"6,303.8",1301
+Belgium,BEL,2004-01-01,"6,625.4",1302
+Belgium,BEL,2005-01-01,"6,847.2",1303
+Belgium,BEL,2006-01-01,"6,736.1",1304
+Belgium,BEL,2007-01-01,"7,077.8",1305
+Belgium,BEL,2008-01-01,"7,298.1",1306
+Belgium,BEL,2009-01-01,"7,221.9",1307
+Belgium,BEL,2010-01-01,"7,389.4",1308
+Belgium,BEL,2011-01-01,"7,483.9",1309
 Belize,BLZ,1986-01-01,1,1310
 Belize,BLZ,1987-01-01,0,1311
 Belize,BLZ,1988-01-01,1,1312
@@ -1478,23 +606,23 @@ Brazil,BRA,1991-01-01,2640,1475
 Brazil,BRA,1992-01-01,3107,1476
 Brazil,BRA,1993-01-01,2885,1477
 Brazil,BRA,1994-01-01,3073,1478
-Brazil,BRA,1995-01-01,3436.1,1479
-Brazil,BRA,1996-01-01,3813.4,1480
-Brazil,BRA,1997-01-01,4497.6,1481
-Brazil,BRA,1998-01-01,5234.1,1482
-Brazil,BRA,1999-01-01,5859.3,1483
-Brazil,BRA,2000-01-01,6407.3,1484
-Brazil,BRA,2001-01-01,7052.3,1485
-Brazil,BRA,2002-01-01,7881.1,1486
-Brazil,BRA,2003-01-01,8330.2,1487
+Brazil,BRA,1995-01-01,"3,436.1",1479
+Brazil,BRA,1996-01-01,"3,813.4",1480
+Brazil,BRA,1997-01-01,"4,497.6",1481
+Brazil,BRA,1998-01-01,"5,234.1",1482
+Brazil,BRA,1999-01-01,"5,859.3",1483
+Brazil,BRA,2000-01-01,"6,407.3",1484
+Brazil,BRA,2001-01-01,"7,052.3",1485
+Brazil,BRA,2002-01-01,"7,881.1",1486
+Brazil,BRA,2003-01-01,"8,330.2",1487
 Brazil,BRA,2004-01-01,9573,1488
-Brazil,BRA,2005-01-01,9896.7,1489
-Brazil,BRA,2006-01-01,10799.5,1490
-Brazil,BRA,2007-01-01,11890.8,1491
-Brazil,BRA,2008-01-01,12909.3,1492
-Brazil,BRA,2009-01-01,12307.3,1493
-Brazil,BRA,2010-01-01,12529.5,1494
-Brazil,BRA,2011-01-01,13148.1,1495
+Brazil,BRA,2005-01-01,"9,896.7",1489
+Brazil,BRA,2006-01-01,"10,799.5",1490
+Brazil,BRA,2007-01-01,"11,890.8",1491
+Brazil,BRA,2008-01-01,"12,909.3",1492
+Brazil,BRA,2009-01-01,"12,307.3",1493
+Brazil,BRA,2010-01-01,"12,529.5",1494
+Brazil,BRA,2011-01-01,"13,148.1",1495
 Brunei Darussalam,BRN,1986-01-01,1,1496
 Brunei Darussalam,BRN,1987-01-01,1,1497
 Brunei Darussalam,BRN,1988-01-01,2,1498
@@ -1690,21 +818,21 @@ Canada,CAN,1991-01-01,22903,1687
 Canada,CAN,1992-01-01,24180,1688
 Canada,CAN,1993-01-01,23824,1689
 Canada,CAN,1994-01-01,24565,1690
-Canada,CAN,1995-01-01,23739.8,1691
-Canada,CAN,1996-01-01,23841.8,1692
-Canada,CAN,1997-01-01,22780.9,1693
-Canada,CAN,1998-01-01,22200.7,1694
-Canada,CAN,1999-01-01,22125.4,1695
-Canada,CAN,2000-01-01,22701.3,1696
-Canada,CAN,2001-01-01,21945.2,1697
-Canada,CAN,2002-01-01,22341.5,1698
-Canada,CAN,2003-01-01,23553.8,1699
-Canada,CAN,2004-01-01,24232.3,1700
-Canada,CAN,2005-01-01,25861.6,1701
-Canada,CAN,2006-01-01,27205.9,1702
-Canada,CAN,2007-01-01,27833.9,1703
-Canada,CAN,2008-01-01,28636.7,1704
-Canada,CAN,2009-01-01,29016.9,1705
+Canada,CAN,1995-01-01,"23,739.8",1691
+Canada,CAN,1996-01-01,"23,841.8",1692
+Canada,CAN,1997-01-01,"22,780.9",1693
+Canada,CAN,1998-01-01,"22,200.7",1694
+Canada,CAN,1999-01-01,"22,125.4",1695
+Canada,CAN,2000-01-01,"22,701.3",1696
+Canada,CAN,2001-01-01,"21,945.2",1697
+Canada,CAN,2002-01-01,"22,341.5",1698
+Canada,CAN,2003-01-01,"23,553.8",1699
+Canada,CAN,2004-01-01,"24,232.3",1700
+Canada,CAN,2005-01-01,"25,861.6",1701
+Canada,CAN,2006-01-01,"27,205.9",1702
+Canada,CAN,2007-01-01,"27,833.9",1703
+Canada,CAN,2008-01-01,"28,636.7",1704
+Canada,CAN,2009-01-01,"29,016.9",1705
 Central African Republic,CAF,1986-01-01,4,1706
 Central African Republic,CAF,1987-01-01,9,1707
 Central African Republic,CAF,1988-01-01,9,1708
@@ -1772,19 +900,19 @@ Chile,CHL,1995-01-01,888.6,1769
 Chile,CHL,1996-01-01,920.3,1770
 Chile,CHL,1997-01-01,954.3,1771
 Chile,CHL,1998-01-01,991.8,1772
-Chile,CHL,1999-01-01,1058.9,1773
-Chile,CHL,2000-01-01,1115.1,1774
-Chile,CHL,2001-01-01,1159.4,1775
-Chile,CHL,2002-01-01,1311.4,1776
-Chile,CHL,2003-01-01,1406.4,1777
-Chile,CHL,2004-01-01,1464.1,1778
-Chile,CHL,2005-01-01,1559.3,1779
-Chile,CHL,2006-01-01,1630.4,1780
-Chile,CHL,2007-01-01,1741.2,1781
-Chile,CHL,2008-01-01,1784.7,1782
-Chile,CHL,2009-01-01,1867.8,1783
-Chile,CHL,2010-01-01,1867.2,1784
-Chile,CHL,2011-01-01,1979.2,1785
+Chile,CHL,1999-01-01,"1,058.9",1773
+Chile,CHL,2000-01-01,"1,115.1",1774
+Chile,CHL,2001-01-01,"1,159.4",1775
+Chile,CHL,2002-01-01,"1,311.4",1776
+Chile,CHL,2003-01-01,"1,406.4",1777
+Chile,CHL,2004-01-01,"1,464.1",1778
+Chile,CHL,2005-01-01,"1,559.3",1779
+Chile,CHL,2006-01-01,"1,630.4",1780
+Chile,CHL,2007-01-01,"1,741.2",1781
+Chile,CHL,2008-01-01,"1,784.7",1782
+Chile,CHL,2009-01-01,"1,867.8",1783
+Chile,CHL,2010-01-01,"1,867.2",1784
+Chile,CHL,2011-01-01,"1,979.2",1785
 China,CHN,1981-01-01,1100,1786
 China,CHN,1985-01-01,1943,1787
 China,CHN,1986-01-01,2911,1788
@@ -1796,23 +924,23 @@ China,CHN,1991-01-01,6186,1793
 China,CHN,1992-01-01,6956,1794
 China,CHN,1993-01-01,7566,1795
 China,CHN,1994-01-01,7821,1796
-China,CHN,1995-01-01,9061.4,1797
-China,CHN,1996-01-01,10526.1,1798
-China,CHN,1997-01-01,12171.6,1799
-China,CHN,1998-01-01,13781.3,1800
-China,CHN,1999-01-01,15714.7,1801
-China,CHN,2000-01-01,18478.7,1802
-China,CHN,2001-01-01,21134.1,1803
-China,CHN,2002-01-01,23269.1,1804
-China,CHN,2003-01-01,28767.9,1805
-China,CHN,2004-01-01,34845.6,1806
-China,CHN,2005-01-01,41603.6,1807
-China,CHN,2006-01-01,49575.1,1808
-China,CHN,2007-01-01,56811.2,1809
-China,CHN,2008-01-01,65300.5,1810
-China,CHN,2009-01-01,74034.4,1811
-China,CHN,2010-01-01,79991.3,1812
-China,CHN,2011-01-01,89894.4,1813
+China,CHN,1995-01-01,"9,061.4",1797
+China,CHN,1996-01-01,"10,526.1",1798
+China,CHN,1997-01-01,"12,171.6",1799
+China,CHN,1998-01-01,"13,781.3",1800
+China,CHN,1999-01-01,"15,714.7",1801
+China,CHN,2000-01-01,"18,478.7",1802
+China,CHN,2001-01-01,"21,134.1",1803
+China,CHN,2002-01-01,"23,269.1",1804
+China,CHN,2003-01-01,"28,767.9",1805
+China,CHN,2004-01-01,"34,845.6",1806
+China,CHN,2005-01-01,"41,603.6",1807
+China,CHN,2006-01-01,"49,575.1",1808
+China,CHN,2007-01-01,"56,811.2",1809
+China,CHN,2008-01-01,"65,300.5",1810
+China,CHN,2009-01-01,"74,034.4",1811
+China,CHN,2010-01-01,"79,991.3",1812
+China,CHN,2011-01-01,"89,894.4",1813
 Colombia,COL,1986-01-01,90,1814
 Colombia,COL,1987-01-01,88,1815
 Colombia,COL,1988-01-01,86,1816
@@ -1988,11 +1116,11 @@ Croatia,HRV,2003-01-01,798.3,1985
 Croatia,HRV,2004-01-01,868,1986
 Croatia,HRV,2005-01-01,953,1987
 Croatia,HRV,2006-01-01,985.7,1988
-Croatia,HRV,2007-01-01,1101.6,1989
-Croatia,HRV,2008-01-01,1188.3,1990
-Croatia,HRV,2009-01-01,1164.1,1991
-Croatia,HRV,2010-01-01,1246.5,1992
-Croatia,HRV,2011-01-01,1288.6,1993
+Croatia,HRV,2007-01-01,"1,101.6",1989
+Croatia,HRV,2008-01-01,"1,188.3",1990
+Croatia,HRV,2009-01-01,"1,164.1",1991
+Croatia,HRV,2010-01-01,"1,246.5",1992
+Croatia,HRV,2011-01-01,"1,288.6",1993
 Cuba,CUB,1986-01-01,56,1994
 Cuba,CUB,1987-01-01,76,1995
 Cuba,CUB,1988-01-01,67,1996
@@ -2056,23 +1184,23 @@ Czech Republic,CZE,1991-01-01,2881,2053
 Czech Republic,CZE,1992-01-01,3132,2054
 Czech Republic,CZE,1993-01-01,3308,2055
 Czech Republic,CZE,1994-01-01,2179,2056
-Czech Republic,CZE,1995-01-01,1954.5,2057
-Czech Republic,CZE,1996-01-01,2185.5,2058
-Czech Republic,CZE,1997-01-01,2304.4,2059
-Czech Republic,CZE,1998-01-01,2263.5,2060
-Czech Republic,CZE,1999-01-01,2359.9,2061
-Czech Republic,CZE,2000-01-01,2483.3,2062
-Czech Republic,CZE,2001-01-01,2571.2,2063
-Czech Republic,CZE,2002-01-01,2746.6,2064
-Czech Republic,CZE,2003-01-01,2820.4,2065
-Czech Republic,CZE,2004-01-01,3178.4,2066
-Czech Republic,CZE,2005-01-01,3172.1,2067
-Czech Republic,CZE,2006-01-01,3565.7,2068
-Czech Republic,CZE,2007-01-01,3689.7,2069
-Czech Republic,CZE,2008-01-01,3936.2,2070
-Czech Republic,CZE,2009-01-01,3948.5,2071
-Czech Republic,CZE,2010-01-01,4163.5,2072
-Czech Republic,CZE,2011-01-01,4126.5,2073
+Czech Republic,CZE,1995-01-01,"1,954.5",2057
+Czech Republic,CZE,1996-01-01,"2,185.5",2058
+Czech Republic,CZE,1997-01-01,"2,304.4",2059
+Czech Republic,CZE,1998-01-01,"2,263.5",2060
+Czech Republic,CZE,1999-01-01,"2,359.9",2061
+Czech Republic,CZE,2000-01-01,"2,483.3",2062
+Czech Republic,CZE,2001-01-01,"2,571.2",2063
+Czech Republic,CZE,2002-01-01,"2,746.6",2064
+Czech Republic,CZE,2003-01-01,"2,820.4",2065
+Czech Republic,CZE,2004-01-01,"3,178.4",2066
+Czech Republic,CZE,2005-01-01,"3,172.1",2067
+Czech Republic,CZE,2006-01-01,"3,565.7",2068
+Czech Republic,CZE,2007-01-01,"3,689.7",2069
+Czech Republic,CZE,2008-01-01,"3,936.2",2070
+Czech Republic,CZE,2009-01-01,"3,948.5",2071
+Czech Republic,CZE,2010-01-01,"4,163.5",2072
+Czech Republic,CZE,2011-01-01,"4,126.5",2073
 Denmark,DNK,1981-01-01,3198,2074
 Denmark,DNK,1985-01-01,3194,2075
 Denmark,DNK,1986-01-01,3636,2076
@@ -2084,23 +1212,23 @@ Denmark,DNK,1991-01-01,3776,2081
 Denmark,DNK,1992-01-01,4141,2082
 Denmark,DNK,1993-01-01,4068,2083
 Denmark,DNK,1994-01-01,4458,2084
-Denmark,DNK,1995-01-01,4330.1,2085
-Denmark,DNK,1996-01-01,4368.7,2086
-Denmark,DNK,1997-01-01,4597.4,2087
-Denmark,DNK,1998-01-01,4717.9,2088
-Denmark,DNK,1999-01-01,4783.3,2089
-Denmark,DNK,2000-01-01,4882.9,2090
-Denmark,DNK,2001-01-01,4916.7,2091
-Denmark,DNK,2002-01-01,4760.7,2092
-Denmark,DNK,2003-01-01,5005.8,2093
+Denmark,DNK,1995-01-01,"4,330.1",2085
+Denmark,DNK,1996-01-01,"4,368.7",2086
+Denmark,DNK,1997-01-01,"4,597.4",2087
+Denmark,DNK,1998-01-01,"4,717.9",2088
+Denmark,DNK,1999-01-01,"4,783.3",2089
+Denmark,DNK,2000-01-01,"4,882.9",2090
+Denmark,DNK,2001-01-01,"4,916.7",2091
+Denmark,DNK,2002-01-01,"4,760.7",2092
+Denmark,DNK,2003-01-01,"5,005.8",2093
 Denmark,DNK,2004-01-01,5009,2094
-Denmark,DNK,2005-01-01,5047.5,2095
-Denmark,DNK,2006-01-01,5133.1,2096
-Denmark,DNK,2007-01-01,5240.6,2097
-Denmark,DNK,2008-01-01,5303.5,2098
+Denmark,DNK,2005-01-01,"5,047.5",2095
+Denmark,DNK,2006-01-01,"5,133.1",2096
+Denmark,DNK,2007-01-01,"5,240.6",2097
+Denmark,DNK,2008-01-01,"5,303.5",2098
 Denmark,DNK,2009-01-01,5307,2099
-Denmark,DNK,2010-01-01,5638.7,2100
-Denmark,DNK,2011-01-01,6071.3,2101
+Denmark,DNK,2010-01-01,"5,638.7",2100
+Denmark,DNK,2011-01-01,"6,071.3",2101
 Djibouti,DJI,1986-01-01,0,2102
 Djibouti,DJI,1987-01-01,0,2103
 Djibouti,DJI,1988-01-01,1,2104
@@ -2216,23 +1344,23 @@ Ecuador,ECU,2011-01-01,60.1,2205
 "Egypt, Arab Rep.",EGY,1992-01-01,1288,2214
 "Egypt, Arab Rep.",EGY,1993-01-01,1279,2215
 "Egypt, Arab Rep.",EGY,1994-01-01,1380,2216
-"Egypt, Arab Rep.",EGY,1995-01-01,1387.8,2217
-"Egypt, Arab Rep.",EGY,1996-01-01,1292.2,2218
-"Egypt, Arab Rep.",EGY,1997-01-01,1266.1,2219
-"Egypt, Arab Rep.",EGY,1998-01-01,1274.8,2220
+"Egypt, Arab Rep.",EGY,1995-01-01,"1,387.8",2217
+"Egypt, Arab Rep.",EGY,1996-01-01,"1,292.2",2218
+"Egypt, Arab Rep.",EGY,1997-01-01,"1,266.1",2219
+"Egypt, Arab Rep.",EGY,1998-01-01,"1,274.8",2220
 "Egypt, Arab Rep.",EGY,1999-01-01,1293,2221
-"Egypt, Arab Rep.",EGY,2000-01-01,1432.8,2222
-"Egypt, Arab Rep.",EGY,2001-01-01,1463.5,2223
+"Egypt, Arab Rep.",EGY,2000-01-01,"1,432.8",2222
+"Egypt, Arab Rep.",EGY,2001-01-01,"1,463.5",2223
 "Egypt, Arab Rep.",EGY,2002-01-01,1564,2224
-"Egypt, Arab Rep.",EGY,2003-01-01,1716.8,2225
-"Egypt, Arab Rep.",EGY,2004-01-01,1661.1,2226
-"Egypt, Arab Rep.",EGY,2005-01-01,1658.2,2227
-"Egypt, Arab Rep.",EGY,2006-01-01,1785.6,2228
-"Egypt, Arab Rep.",EGY,2007-01-01,1934.4,2229
-"Egypt, Arab Rep.",EGY,2008-01-01,2018.9,2230
-"Egypt, Arab Rep.",EGY,2009-01-01,2247.3,2231
-"Egypt, Arab Rep.",EGY,2010-01-01,2431.2,2232
-"Egypt, Arab Rep.",EGY,2011-01-01,2514.9,2233
+"Egypt, Arab Rep.",EGY,2003-01-01,"1,716.8",2225
+"Egypt, Arab Rep.",EGY,2004-01-01,"1,661.1",2226
+"Egypt, Arab Rep.",EGY,2005-01-01,"1,658.2",2227
+"Egypt, Arab Rep.",EGY,2006-01-01,"1,785.6",2228
+"Egypt, Arab Rep.",EGY,2007-01-01,"1,934.4",2229
+"Egypt, Arab Rep.",EGY,2008-01-01,"2,018.9",2230
+"Egypt, Arab Rep.",EGY,2009-01-01,"2,247.3",2231
+"Egypt, Arab Rep.",EGY,2010-01-01,"2,431.2",2232
+"Egypt, Arab Rep.",EGY,2011-01-01,"2,514.9",2233
 El Salvador,SLV,1986-01-01,2,2234
 El Salvador,SLV,1987-01-01,1,2235
 El Salvador,SLV,1988-01-01,5,2236
@@ -2397,22 +1525,22 @@ Finland,FIN,1992-01-01,3438,2394
 Finland,FIN,1993-01-01,3603,2395
 Finland,FIN,1994-01-01,3974,2396
 Finland,FIN,1995-01-01,4077,2397
-Finland,FIN,1996-01-01,4329.6,2398
-Finland,FIN,1997-01-01,4452.2,2399
-Finland,FIN,1998-01-01,4513.4,2400
-Finland,FIN,1999-01-01,4719.4,2401
-Finland,FIN,2000-01-01,4843.8,2402
+Finland,FIN,1996-01-01,"4,329.6",2398
+Finland,FIN,1997-01-01,"4,452.2",2399
+Finland,FIN,1998-01-01,"4,513.4",2400
+Finland,FIN,1999-01-01,"4,719.4",2401
+Finland,FIN,2000-01-01,"4,843.8",2402
 Finland,FIN,2001-01-01,4930,2403
-Finland,FIN,2002-01-01,4904.3,2404
-Finland,FIN,2003-01-01,4899.4,2405
-Finland,FIN,2004-01-01,5018.7,2406
-Finland,FIN,2005-01-01,4813.4,2407
+Finland,FIN,2002-01-01,"4,904.3",2404
+Finland,FIN,2003-01-01,"4,899.4",2405
+Finland,FIN,2004-01-01,"5,018.7",2406
+Finland,FIN,2005-01-01,"4,813.4",2407
 Finland,FIN,2006-01-01,5088,2408
-Finland,FIN,2007-01-01,4989.6,2409
-Finland,FIN,2008-01-01,5112.5,2410
-Finland,FIN,2009-01-01,4951.8,2411
-Finland,FIN,2010-01-01,4868.5,2412
-Finland,FIN,2011-01-01,4877.6,2413
+Finland,FIN,2007-01-01,"4,989.6",2409
+Finland,FIN,2008-01-01,"5,112.5",2410
+Finland,FIN,2009-01-01,"4,951.8",2411
+Finland,FIN,2010-01-01,"4,868.5",2412
+Finland,FIN,2011-01-01,"4,877.6",2413
 France,FRA,1981-01-01,18567,2414
 France,FRA,1985-01-01,18422,2415
 France,FRA,1986-01-01,20874,2416
@@ -2424,23 +1552,23 @@ France,FRA,1991-01-01,23518,2421
 France,FRA,1992-01-01,26172,2422
 France,FRA,1993-01-01,26225,2423
 France,FRA,1994-01-01,28266,2424
-France,FRA,1995-01-01,28847.5,2425
+France,FRA,1995-01-01,"28,847.5",2425
 France,FRA,1996-01-01,29746,2426
-France,FRA,1997-01-01,30321.9,2427
-France,FRA,1998-01-01,31393.1,2428
-France,FRA,1999-01-01,31345.4,2429
-France,FRA,2000-01-01,31427.1,2430
-France,FRA,2001-01-01,30601.5,2431
-France,FRA,2002-01-01,30530.9,2432
+France,FRA,1997-01-01,"30,321.9",2427
+France,FRA,1998-01-01,"31,393.1",2428
+France,FRA,1999-01-01,"31,345.4",2429
+France,FRA,2000-01-01,"31,427.1",2430
+France,FRA,2001-01-01,"30,601.5",2431
+France,FRA,2002-01-01,"30,530.9",2432
 France,FRA,2003-01-01,30307,2433
-France,FRA,2004-01-01,29892.8,2434
-France,FRA,2005-01-01,30340.2,2435
-France,FRA,2006-01-01,31220.5,2436
-France,FRA,2007-01-01,30752.6,2437
-France,FRA,2008-01-01,31982.8,2438
-France,FRA,2009-01-01,31756.6,2439
-France,FRA,2010-01-01,31367.6,2440
-France,FRA,2011-01-01,31685.5,2441
+France,FRA,2004-01-01,"29,892.8",2434
+France,FRA,2005-01-01,"30,340.2",2435
+France,FRA,2006-01-01,"31,220.5",2436
+France,FRA,2007-01-01,"30,752.6",2437
+France,FRA,2008-01-01,"31,982.8",2438
+France,FRA,2009-01-01,"31,756.6",2439
+France,FRA,2010-01-01,"31,367.6",2440
+France,FRA,2011-01-01,"31,685.5",2441
 Gabon,GAB,1986-01-01,16,2442
 Gabon,GAB,1987-01-01,12,2443
 Gabon,GAB,1988-01-01,20,2444
@@ -2527,22 +1655,22 @@ Germany,DEU,1992-01-01,35120,2524
 Germany,DEU,1993-01-01,34103,2525
 Germany,DEU,1994-01-01,36901,2526
 Germany,DEU,1995-01-01,37645,2527
-Germany,DEU,1996-01-01,39213.4,2528
-Germany,DEU,1997-01-01,41414.6,2529
+Germany,DEU,1996-01-01,"39,213.4",2528
+Germany,DEU,1997-01-01,"41,414.6",2529
 Germany,DEU,1998-01-01,42955,2530
-Germany,DEU,1999-01-01,42962.9,2531
-Germany,DEU,2000-01-01,43509.6,2532
-Germany,DEU,2001-01-01,42677.7,2533
+Germany,DEU,1999-01-01,"42,962.9",2531
+Germany,DEU,2000-01-01,"43,509.6",2532
+Germany,DEU,2001-01-01,"42,677.7",2533
 Germany,DEU,2002-01-01,42436,2534
-Germany,DEU,2003-01-01,42230.4,2535
-Germany,DEU,2004-01-01,43016.8,2536
-Germany,DEU,2005-01-01,44194.1,2537
-Germany,DEU,2006-01-01,44549.8,2538
-Germany,DEU,2007-01-01,44428.7,2539
-Germany,DEU,2008-01-01,44915.1,2540
-Germany,DEU,2009-01-01,45017.3,2541
-Germany,DEU,2010-01-01,45337.8,2542
-Germany,DEU,2011-01-01,46258.8,2543
+Germany,DEU,2003-01-01,"42,230.4",2535
+Germany,DEU,2004-01-01,"43,016.8",2536
+Germany,DEU,2005-01-01,"44,194.1",2537
+Germany,DEU,2006-01-01,"44,549.8",2538
+Germany,DEU,2007-01-01,"44,428.7",2539
+Germany,DEU,2008-01-01,"44,915.1",2540
+Germany,DEU,2009-01-01,"45,017.3",2541
+Germany,DEU,2010-01-01,"45,337.8",2542
+Germany,DEU,2011-01-01,"46,258.8",2543
 Ghana,GHA,1986-01-01,25,2544
 Ghana,GHA,1987-01-01,32,2545
 Ghana,GHA,1988-01-01,37,2546
@@ -2580,23 +1708,23 @@ Greece,GRC,1991-01-01,1598,2577
 Greece,GRC,1992-01-01,1736,2578
 Greece,GRC,1993-01-01,1759,2579
 Greece,GRC,1994-01-01,1974,2580
-Greece,GRC,1995-01-01,2058.1,2581
-Greece,GRC,1996-01-01,2249.3,2582
+Greece,GRC,1995-01-01,"2,058.1",2581
+Greece,GRC,1996-01-01,"2,249.3",2582
 Greece,GRC,1997-01-01,2434,2583
-Greece,GRC,1998-01-01,2611.3,2584
-Greece,GRC,1999-01-01,2625.9,2585
-Greece,GRC,2000-01-01,2976.1,2586
-Greece,GRC,2001-01-01,3203.8,2587
-Greece,GRC,2002-01-01,3447.1,2588
-Greece,GRC,2003-01-01,3586.9,2589
-Greece,GRC,2004-01-01,3928.3,2590
+Greece,GRC,1998-01-01,"2,611.3",2584
+Greece,GRC,1999-01-01,"2,625.9",2585
+Greece,GRC,2000-01-01,"2,976.1",2586
+Greece,GRC,2001-01-01,"3,203.8",2587
+Greece,GRC,2002-01-01,"3,447.1",2588
+Greece,GRC,2003-01-01,"3,586.9",2589
+Greece,GRC,2004-01-01,"3,928.3",2590
 Greece,GRC,2005-01-01,4292,2591
-Greece,GRC,2006-01-01,4874.1,2592
-Greece,GRC,2007-01-01,4981.7,2593
-Greece,GRC,2008-01-01,4953.4,2594
-Greece,GRC,2009-01-01,4881.5,2595
-Greece,GRC,2010-01-01,4631.2,2596
-Greece,GRC,2011-01-01,4534.1,2597
+Greece,GRC,2006-01-01,"4,874.1",2592
+Greece,GRC,2007-01-01,"4,981.7",2593
+Greece,GRC,2008-01-01,"4,953.4",2594
+Greece,GRC,2009-01-01,"4,881.5",2595
+Greece,GRC,2010-01-01,"4,631.2",2596
+Greece,GRC,2011-01-01,"4,534.1",2597
 Grenada,GRD,1986-01-01,0,2598
 Grenada,GRD,1987-01-01,0,2599
 Grenada,GRD,1988-01-01,0,2600
@@ -2801,23 +1929,23 @@ Hungary,HUN,1991-01-01,1806,2798
 Hungary,HUN,1992-01-01,1824,2799
 Hungary,HUN,1993-01-01,1718,2800
 Hungary,HUN,1994-01-01,1774,2801
-Hungary,HUN,1995-01-01,1763.8,2802
-Hungary,HUN,1996-01-01,1813.1,2803
-Hungary,HUN,1997-01-01,1991.5,2804
-Hungary,HUN,1998-01-01,2201.9,2805
-Hungary,HUN,1999-01-01,2199.6,2806
-Hungary,HUN,2000-01-01,2358.4,2807
-Hungary,HUN,2001-01-01,2398.2,2808
-Hungary,HUN,2002-01-01,2322.7,2809
-Hungary,HUN,2003-01-01,2450.7,2810
-Hungary,HUN,2004-01-01,2408.6,2811
+Hungary,HUN,1995-01-01,"1,763.8",2802
+Hungary,HUN,1996-01-01,"1,813.1",2803
+Hungary,HUN,1997-01-01,"1,991.5",2804
+Hungary,HUN,1998-01-01,"2,201.9",2805
+Hungary,HUN,1999-01-01,"2,199.6",2806
+Hungary,HUN,2000-01-01,"2,358.4",2807
+Hungary,HUN,2001-01-01,"2,398.2",2808
+Hungary,HUN,2002-01-01,"2,322.7",2809
+Hungary,HUN,2003-01-01,"2,450.7",2810
+Hungary,HUN,2004-01-01,"2,408.6",2811
 Hungary,HUN,2005-01-01,2619,2812
-Hungary,HUN,2006-01-01,2592.2,2813
-Hungary,HUN,2007-01-01,2452.1,2814
-Hungary,HUN,2008-01-01,2554.1,2815
-Hungary,HUN,2009-01-01,2398.9,2816
+Hungary,HUN,2006-01-01,"2,592.2",2813
+Hungary,HUN,2007-01-01,"2,452.1",2814
+Hungary,HUN,2008-01-01,"2,554.1",2815
+Hungary,HUN,2009-01-01,"2,398.9",2816
 Hungary,HUN,2010-01-01,2221,2817
-Hungary,HUN,2011-01-01,2289.3,2818
+Hungary,HUN,2011-01-01,"2,289.3",2818
 Iceland,ISL,1981-01-01,34,2819
 Iceland,ISL,1985-01-01,57,2820
 Iceland,ISL,1986-01-01,59,2821
@@ -2857,23 +1985,23 @@ India,IND,1991-01-01,9517,2854
 India,IND,1992-01-01,10100,2855
 India,IND,1993-01-01,9763,2856
 India,IND,1994-01-01,9928,2857
-India,IND,1995-01-01,9370.1,2858
-India,IND,1996-01-01,9752.8,2859
-India,IND,1997-01-01,9617.6,2860
-India,IND,1998-01-01,9944.8,2861
-India,IND,1999-01-01,10190.4,2862
-India,IND,2000-01-01,10276.4,2863
-India,IND,2001-01-01,10800.5,2864
-India,IND,2002-01-01,11664.7,2865
-India,IND,2003-01-01,12462.2,2866
-India,IND,2004-01-01,13368.7,2867
-India,IND,2005-01-01,14635.3,2868
-India,IND,2006-01-01,16743.3,2869
-India,IND,2007-01-01,18202.9,2870
-India,IND,2008-01-01,18987.5,2871
-India,IND,2009-01-01,19924.3,2872
-India,IND,2010-01-01,20881.8,2873
-India,IND,2011-01-01,22480.5,2874
+India,IND,1995-01-01,"9,370.1",2858
+India,IND,1996-01-01,"9,752.8",2859
+India,IND,1997-01-01,"9,617.6",2860
+India,IND,1998-01-01,"9,944.8",2861
+India,IND,1999-01-01,"10,190.4",2862
+India,IND,2000-01-01,"10,276.4",2863
+India,IND,2001-01-01,"10,800.5",2864
+India,IND,2002-01-01,"11,664.7",2865
+India,IND,2003-01-01,"12,462.2",2866
+India,IND,2004-01-01,"13,368.7",2867
+India,IND,2005-01-01,"14,635.3",2868
+India,IND,2006-01-01,"16,743.3",2869
+India,IND,2007-01-01,"18,202.9",2870
+India,IND,2008-01-01,"18,987.5",2871
+India,IND,2009-01-01,"19,924.3",2872
+India,IND,2010-01-01,"20,881.8",2873
+India,IND,2011-01-01,"22,480.5",2874
 Indonesia,IDN,1986-01-01,72,2875
 Indonesia,IDN,1987-01-01,66,2876
 Indonesia,IDN,1988-01-01,59,2877
@@ -2915,17 +2043,17 @@ Indonesia,IDN,2011-01-01,269.9,2900
 "Iran, Islamic Rep.",IRN,1998-01-01,541.3,2913
 "Iran, Islamic Rep.",IRN,1999-01-01,664.8,2914
 "Iran, Islamic Rep.",IRN,2000-01-01,841.1,2915
-"Iran, Islamic Rep.",IRN,2001-01-01,1034.9,2916
-"Iran, Islamic Rep.",IRN,2002-01-01,1313.8,2917
-"Iran, Islamic Rep.",IRN,2003-01-01,1789.8,2918
-"Iran, Islamic Rep.",IRN,2004-01-01,2115.8,2919
-"Iran, Islamic Rep.",IRN,2005-01-01,2634.9,2920
-"Iran, Islamic Rep.",IRN,2006-01-01,3422.7,2921
-"Iran, Islamic Rep.",IRN,2007-01-01,4366.2,2922
-"Iran, Islamic Rep.",IRN,2008-01-01,5228.3,2923
-"Iran, Islamic Rep.",IRN,2009-01-01,6313.3,2924
-"Iran, Islamic Rep.",IRN,2010-01-01,6992.6,2925
-"Iran, Islamic Rep.",IRN,2011-01-01,8175.5,2926
+"Iran, Islamic Rep.",IRN,2001-01-01,"1,034.9",2916
+"Iran, Islamic Rep.",IRN,2002-01-01,"1,313.8",2917
+"Iran, Islamic Rep.",IRN,2003-01-01,"1,789.8",2918
+"Iran, Islamic Rep.",IRN,2004-01-01,"2,115.8",2919
+"Iran, Islamic Rep.",IRN,2005-01-01,"2,634.9",2920
+"Iran, Islamic Rep.",IRN,2006-01-01,"3,422.7",2921
+"Iran, Islamic Rep.",IRN,2007-01-01,"4,366.2",2922
+"Iran, Islamic Rep.",IRN,2008-01-01,"5,228.3",2923
+"Iran, Islamic Rep.",IRN,2009-01-01,"6,313.3",2924
+"Iran, Islamic Rep.",IRN,2010-01-01,"6,992.6",2925
+"Iran, Islamic Rep.",IRN,2011-01-01,"8,175.5",2926
 Iraq,IRQ,1986-01-01,222,2927
 Iraq,IRQ,1987-01-01,187,2928
 Iraq,IRQ,1988-01-01,225,2929
@@ -2963,23 +2091,23 @@ Ireland,IRL,1991-01-01,915,2960
 Ireland,IRL,1992-01-01,946,2961
 Ireland,IRL,1993-01-01,1003,2962
 Ireland,IRL,1994-01-01,1168,2963
-Ireland,IRL,1995-01-01,1217.7,2964
-Ireland,IRL,1996-01-01,1253.8,2965
-Ireland,IRL,1997-01-01,1330.8,2966
-Ireland,IRL,1998-01-01,1520.5,2967
-Ireland,IRL,1999-01-01,1458.9,2968
-Ireland,IRL,2000-01-01,1580.9,2969
-Ireland,IRL,2001-01-01,1588.3,2970
-Ireland,IRL,2002-01-01,1628.9,2971
-Ireland,IRL,2003-01-01,1681.1,2972
-Ireland,IRL,2004-01-01,1935.9,2973
-Ireland,IRL,2005-01-01,2120.4,2974
-Ireland,IRL,2006-01-01,2302.6,2975
-Ireland,IRL,2007-01-01,2498.4,2976
-Ireland,IRL,2008-01-01,2661.9,2977
-Ireland,IRL,2009-01-01,2799.9,2978
-Ireland,IRL,2010-01-01,3055.8,2979
-Ireland,IRL,2011-01-01,3186.4,2980
+Ireland,IRL,1995-01-01,"1,217.7",2964
+Ireland,IRL,1996-01-01,"1,253.8",2965
+Ireland,IRL,1997-01-01,"1,330.8",2966
+Ireland,IRL,1998-01-01,"1,520.5",2967
+Ireland,IRL,1999-01-01,"1,458.9",2968
+Ireland,IRL,2000-01-01,"1,580.9",2969
+Ireland,IRL,2001-01-01,"1,588.3",2970
+Ireland,IRL,2002-01-01,"1,628.9",2971
+Ireland,IRL,2003-01-01,"1,681.1",2972
+Ireland,IRL,2004-01-01,"1,935.9",2973
+Ireland,IRL,2005-01-01,"2,120.4",2974
+Ireland,IRL,2006-01-01,"2,302.6",2975
+Ireland,IRL,2007-01-01,"2,498.4",2976
+Ireland,IRL,2008-01-01,"2,661.9",2977
+Ireland,IRL,2009-01-01,"2,799.9",2978
+Ireland,IRL,2010-01-01,"3,055.8",2979
+Ireland,IRL,2011-01-01,"3,186.4",2980
 Israel,ISR,1981-01-01,3698,2981
 Israel,ISR,1985-01-01,4233,2982
 Israel,ISR,1986-01-01,4989,2983
@@ -2991,22 +2119,22 @@ Israel,ISR,1991-01-01,4873,2988
 Israel,ISR,1992-01-01,5234,2989
 Israel,ISR,1993-01-01,5575,2990
 Israel,ISR,1994-01-01,5559,2991
-Israel,ISR,1995-01-01,5740.7,2992
-Israel,ISR,1996-01-01,5750.7,2993
-Israel,ISR,1997-01-01,6047.4,2994
-Israel,ISR,1998-01-01,6020.3,2995
-Israel,ISR,1999-01-01,5928.8,2996
-Israel,ISR,2000-01-01,6290.3,2997
-Israel,ISR,2001-01-01,6234.5,2998
+Israel,ISR,1995-01-01,"5,740.7",2992
+Israel,ISR,1996-01-01,"5,750.7",2993
+Israel,ISR,1997-01-01,"6,047.4",2994
+Israel,ISR,1998-01-01,"6,020.3",2995
+Israel,ISR,1999-01-01,"5,928.8",2996
+Israel,ISR,2000-01-01,"6,290.3",2997
+Israel,ISR,2001-01-01,"6,234.5",2998
 Israel,ISR,2002-01-01,6381,2999
-Israel,ISR,2003-01-01,6524.7,3000
+Israel,ISR,2003-01-01,"6,524.7",3000
 Israel,ISR,2004-01-01,6462,3001
 Israel,ISR,2005-01-01,6322,3002
-Israel,ISR,2006-01-01,6558.5,3003
-Israel,ISR,2007-01-01,6632.2,3004
-Israel,ISR,2008-01-01,6609.4,3005
-Israel,ISR,2009-01-01,6306.2,3006
-Israel,ISR,2010-01-01,6139.2,3007
+Israel,ISR,2006-01-01,"6,558.5",3003
+Israel,ISR,2007-01-01,"6,632.2",3004
+Israel,ISR,2008-01-01,"6,609.4",3005
+Israel,ISR,2009-01-01,"6,306.2",3006
+Israel,ISR,2010-01-01,"6,139.2",3007
 Israel,ISR,2011-01-01,6096,3008
 Italy,ITA,1981-01-01,7803,3009
 Italy,ITA,1985-01-01,9377,3010
@@ -3019,23 +2147,23 @@ Italy,ITA,1991-01-01,13778,3016
 Italy,ITA,1992-01-01,15462,3017
 Italy,ITA,1993-01-01,15279,3018
 Italy,ITA,1994-01-01,17000,3019
-Italy,ITA,1995-01-01,17880.5,3020
-Italy,ITA,1996-01-01,19233.8,3021
-Italy,ITA,1997-01-01,19401.6,3022
+Italy,ITA,1995-01-01,"17,880.5",3020
+Italy,ITA,1996-01-01,"19,233.8",3021
+Italy,ITA,1997-01-01,"19,401.6",3022
 Italy,ITA,1998-01-01,20056,3023
-Italy,ITA,1999-01-01,20327.1,3024
-Italy,ITA,2000-01-01,21409.4,3025
-Italy,ITA,2001-01-01,22092.9,3026
-Italy,ITA,2002-01-01,22482.6,3027
-Italy,ITA,2003-01-01,23764.5,3028
-Italy,ITA,2004-01-01,24759.4,3029
-Italy,ITA,2005-01-01,24663.2,3030
-Italy,ITA,2006-01-01,25804.9,3031
-Italy,ITA,2007-01-01,26561.3,3032
-Italy,ITA,2008-01-01,26853.7,3033
-Italy,ITA,2009-01-01,26769.7,3034
-Italy,ITA,2010-01-01,26347.6,3035
-Italy,ITA,2011-01-01,26503.4,3036
+Italy,ITA,1999-01-01,"20,327.1",3024
+Italy,ITA,2000-01-01,"21,409.4",3025
+Italy,ITA,2001-01-01,"22,092.9",3026
+Italy,ITA,2002-01-01,"22,482.6",3027
+Italy,ITA,2003-01-01,"23,764.5",3028
+Italy,ITA,2004-01-01,"24,759.4",3029
+Italy,ITA,2005-01-01,"24,663.2",3030
+Italy,ITA,2006-01-01,"25,804.9",3031
+Italy,ITA,2007-01-01,"26,561.3",3032
+Italy,ITA,2008-01-01,"26,853.7",3033
+Italy,ITA,2009-01-01,"26,769.7",3034
+Italy,ITA,2010-01-01,"26,347.6",3035
+Italy,ITA,2011-01-01,"26,503.4",3036
 Jamaica,JAM,1986-01-01,57,3037
 Jamaica,JAM,1987-01-01,89,3038
 Jamaica,JAM,1988-01-01,76,3039
@@ -3073,23 +2201,23 @@ Japan,JPN,1991-01-01,39590,3070
 Japan,JPN,1992-01-01,44143,3071
 Japan,JPN,1993-01-01,43339,3072
 Japan,JPN,1994-01-01,46692,3073
-Japan,JPN,1995-01-01,47067.9,3074
+Japan,JPN,1995-01-01,"47,067.9",3074
 Japan,JPN,1996-01-01,50345,3075
-Japan,JPN,1997-01-01,51462.4,3076
-Japan,JPN,1998-01-01,53838.3,3077
-Japan,JPN,1999-01-01,55273.8,3078
-Japan,JPN,2000-01-01,57101.2,3079
-Japan,JPN,2001-01-01,56081.7,3080
-Japan,JPN,2002-01-01,56346.5,3081
-Japan,JPN,2003-01-01,57231.2,3082
-Japan,JPN,2004-01-01,56538.4,3083
-Japan,JPN,2005-01-01,55527.3,3084
-Japan,JPN,2006-01-01,54469.4,3085
-Japan,JPN,2007-01-01,52910.6,3086
+Japan,JPN,1997-01-01,"51,462.4",3076
+Japan,JPN,1998-01-01,"53,838.3",3077
+Japan,JPN,1999-01-01,"55,273.8",3078
+Japan,JPN,2000-01-01,"57,101.2",3079
+Japan,JPN,2001-01-01,"56,081.7",3080
+Japan,JPN,2002-01-01,"56,346.5",3081
+Japan,JPN,2003-01-01,"57,231.2",3082
+Japan,JPN,2004-01-01,"56,538.4",3083
+Japan,JPN,2005-01-01,"55,527.3",3084
+Japan,JPN,2006-01-01,"54,469.4",3085
+Japan,JPN,2007-01-01,"52,910.6",3086
 Japan,JPN,2008-01-01,51842,3087
-Japan,JPN,2009-01-01,49631.9,3088
-Japan,JPN,2010-01-01,47043.1,3089
-Japan,JPN,2011-01-01,47105.7,3090
+Japan,JPN,2009-01-01,"49,631.9",3088
+Japan,JPN,2010-01-01,"47,043.1",3089
+Japan,JPN,2011-01-01,"47,105.7",3090
 Jordan,JOR,1986-01-01,119,3091
 Jordan,JOR,1987-01-01,142,3092
 Jordan,JOR,1988-01-01,161,3093
@@ -3229,23 +2357,23 @@ Kiribati,KIR,2011-01-01,0,3192
 "Korea, Rep.",KOR,1992-01-01,1759,3227
 "Korea, Rep.",KOR,1993-01-01,2184,3228
 "Korea, Rep.",KOR,1994-01-01,2931,3229
-"Korea, Rep.",KOR,1995-01-01,3803.2,3230
-"Korea, Rep.",KOR,1996-01-01,4770.9,3231
-"Korea, Rep.",KOR,1997-01-01,5802.2,3232
-"Korea, Rep.",KOR,1998-01-01,7056.6,3233
-"Korea, Rep.",KOR,1999-01-01,8478.2,3234
-"Korea, Rep.",KOR,2000-01-01,9571.8,3235
-"Korea, Rep.",KOR,2001-01-01,11007.7,3236
-"Korea, Rep.",KOR,2002-01-01,11734.5,3237
-"Korea, Rep.",KOR,2003-01-01,13402.9,3238
-"Korea, Rep.",KOR,2004-01-01,15255.6,3239
-"Korea, Rep.",KOR,2005-01-01,16395.8,3240
-"Korea, Rep.",KOR,2006-01-01,17909.9,3241
-"Korea, Rep.",KOR,2007-01-01,18470.1,3242
-"Korea, Rep.",KOR,2008-01-01,21090.8,3243
-"Korea, Rep.",KOR,2009-01-01,22280.3,3244
-"Korea, Rep.",KOR,2010-01-01,24106.4,3245
-"Korea, Rep.",KOR,2011-01-01,25592.7,3246
+"Korea, Rep.",KOR,1995-01-01,"3,803.2",3230
+"Korea, Rep.",KOR,1996-01-01,"4,770.9",3231
+"Korea, Rep.",KOR,1997-01-01,"5,802.2",3232
+"Korea, Rep.",KOR,1998-01-01,"7,056.6",3233
+"Korea, Rep.",KOR,1999-01-01,"8,478.2",3234
+"Korea, Rep.",KOR,2000-01-01,"9,571.8",3235
+"Korea, Rep.",KOR,2001-01-01,"11,007.7",3236
+"Korea, Rep.",KOR,2002-01-01,"11,734.5",3237
+"Korea, Rep.",KOR,2003-01-01,"13,402.9",3238
+"Korea, Rep.",KOR,2004-01-01,"15,255.6",3239
+"Korea, Rep.",KOR,2005-01-01,"16,395.8",3240
+"Korea, Rep.",KOR,2006-01-01,"17,909.9",3241
+"Korea, Rep.",KOR,2007-01-01,"18,470.1",3242
+"Korea, Rep.",KOR,2008-01-01,"21,090.8",3243
+"Korea, Rep.",KOR,2009-01-01,"22,280.3",3244
+"Korea, Rep.",KOR,2010-01-01,"24,106.4",3245
+"Korea, Rep.",KOR,2011-01-01,"25,592.7",3246
 Kosovo,KOR,1997-01-01,0,3247
 Kosovo,KOR,1998-01-01,0,3248
 Kosovo,KOR,1999-01-01,0,3249
@@ -3633,9 +2761,9 @@ Malaysia,MYS,2005-01-01,614.6,3630
 Malaysia,MYS,2006-01-01,724.1,3631
 Malaysia,MYS,2007-01-01,808.1,3632
 Malaysia,MYS,2008-01-01,951,3633
-Malaysia,MYS,2009-01-01,1351.3,3634
-Malaysia,MYS,2010-01-01,1607.7,3635
-Malaysia,MYS,2011-01-01,2092.2,3636
+Malaysia,MYS,2009-01-01,"1,351.3",3634
+Malaysia,MYS,2010-01-01,"1,607.7",3635
+Malaysia,MYS,2011-01-01,"2,092.2",3636
 Maldives,MDV,1986-01-01,0,3637
 Maldives,MDV,1987-01-01,0,3638
 Maldives,MDV,1988-01-01,0,3639
@@ -3803,21 +2931,21 @@ Mexico,MEX,1991-01-01,1082,3800
 Mexico,MEX,1992-01-01,1336,3801
 Mexico,MEX,1993-01-01,1502,3802
 Mexico,MEX,1994-01-01,1663,3803
-Mexico,MEX,1995-01-01,1937.3,3804
-Mexico,MEX,1996-01-01,2123.9,3805
-Mexico,MEX,1997-01-01,2301.7,3806
-Mexico,MEX,1998-01-01,2658.9,3807
-Mexico,MEX,1999-01-01,2883.5,3808
-Mexico,MEX,2000-01-01,2970.7,3809
-Mexico,MEX,2001-01-01,3202.8,3810
-Mexico,MEX,2002-01-01,3320.2,3811
-Mexico,MEX,2003-01-01,3658.5,3812
+Mexico,MEX,1995-01-01,"1,937.3",3804
+Mexico,MEX,1996-01-01,"2,123.9",3805
+Mexico,MEX,1997-01-01,"2,301.7",3806
+Mexico,MEX,1998-01-01,"2,658.9",3807
+Mexico,MEX,1999-01-01,"2,883.5",3808
+Mexico,MEX,2000-01-01,"2,970.7",3809
+Mexico,MEX,2001-01-01,"3,202.8",3810
+Mexico,MEX,2002-01-01,"3,320.2",3811
+Mexico,MEX,2003-01-01,"3,658.5",3812
 Mexico,MEX,2004-01-01,3870,3813
-Mexico,MEX,2005-01-01,3931.6,3814
-Mexico,MEX,2006-01-01,3998.2,3815
-Mexico,MEX,2007-01-01,4223.6,3816
-Mexico,MEX,2008-01-01,4256.8,3817
-Mexico,MEX,2009-01-01,4127.7,3818
+Mexico,MEX,2005-01-01,"3,931.6",3814
+Mexico,MEX,2006-01-01,"3,998.2",3815
+Mexico,MEX,2007-01-01,"4,223.6",3816
+Mexico,MEX,2008-01-01,"4,256.8",3817
+Mexico,MEX,2009-01-01,"4,127.7",3818
 "Micronesia, Fed. Sts.",FSM,1986-01-01,0,3819
 "Micronesia, Fed. Sts.",FSM,1987-01-01,1,3820
 "Micronesia, Fed. Sts.",FSM,1988-01-01,0,3821
@@ -4065,23 +3193,23 @@ Netherlands,NLD,1991-01-01,10106,4062
 Netherlands,NLD,1992-01-01,11060,4063
 Netherlands,NLD,1993-01-01,11360,4064
 Netherlands,NLD,1994-01-01,11961,4065
-Netherlands,NLD,1995-01-01,12089.4,4066
-Netherlands,NLD,1996-01-01,12412.8,4067
-Netherlands,NLD,1997-01-01,12444.3,4068
-Netherlands,NLD,1998-01-01,12500.4,4069
-Netherlands,NLD,1999-01-01,12168.2,4070
-Netherlands,NLD,2000-01-01,12340.7,4071
-Netherlands,NLD,2001-01-01,12117.4,4072
-Netherlands,NLD,2002-01-01,12481.3,4073
-Netherlands,NLD,2003-01-01,12661.5,4074
-Netherlands,NLD,2004-01-01,13240.7,4075
-Netherlands,NLD,2005-01-01,13894.1,4076
-Netherlands,NLD,2006-01-01,13991.7,4077
-Netherlands,NLD,2007-01-01,14215.7,4078
-Netherlands,NLD,2008-01-01,14637.2,4079
-Netherlands,NLD,2009-01-01,14868.4,4080
-Netherlands,NLD,2010-01-01,15506.2,4081
-Netherlands,NLD,2011-01-01,15508.3,4082
+Netherlands,NLD,1995-01-01,"12,089.4",4066
+Netherlands,NLD,1996-01-01,"12,412.8",4067
+Netherlands,NLD,1997-01-01,"12,444.3",4068
+Netherlands,NLD,1998-01-01,"12,500.4",4069
+Netherlands,NLD,1999-01-01,"12,168.2",4070
+Netherlands,NLD,2000-01-01,"12,340.7",4071
+Netherlands,NLD,2001-01-01,"12,117.4",4072
+Netherlands,NLD,2002-01-01,"12,481.3",4073
+Netherlands,NLD,2003-01-01,"12,661.5",4074
+Netherlands,NLD,2004-01-01,"13,240.7",4075
+Netherlands,NLD,2005-01-01,"13,894.1",4076
+Netherlands,NLD,2006-01-01,"13,991.7",4077
+Netherlands,NLD,2007-01-01,"14,215.7",4078
+Netherlands,NLD,2008-01-01,"14,637.2",4079
+Netherlands,NLD,2009-01-01,"14,868.4",4080
+Netherlands,NLD,2010-01-01,"15,506.2",4081
+Netherlands,NLD,2011-01-01,"15,508.3",4082
 New Zealand,NZL,1981-01-01,1722,4083
 New Zealand,NZL,1985-01-01,1703,4084
 New Zealand,NZL,1986-01-01,1994,4085
@@ -4093,23 +3221,23 @@ New Zealand,NZL,1991-01-01,2102,4090
 New Zealand,NZL,1992-01-01,2253,4091
 New Zealand,NZL,1993-01-01,2256,4092
 New Zealand,NZL,1994-01-01,2454,4093
-New Zealand,NZL,1995-01-01,2442.3,4094
-New Zealand,NZL,1996-01-01,2575.5,4095
-New Zealand,NZL,1997-01-01,2726.3,4096
-New Zealand,NZL,1998-01-01,2801.7,4097
-New Zealand,NZL,1999-01-01,2915.4,4098
-New Zealand,NZL,2000-01-01,2850.8,4099
-New Zealand,NZL,2001-01-01,2850.9,4100
-New Zealand,NZL,2002-01-01,2739.8,4101
-New Zealand,NZL,2003-01-01,2799.8,4102
-New Zealand,NZL,2004-01-01,2825.1,4103
-New Zealand,NZL,2005-01-01,2987.2,4104
-New Zealand,NZL,2006-01-01,3081.8,4105
-New Zealand,NZL,2007-01-01,3175.8,4106
-New Zealand,NZL,2008-01-01,3323.4,4107
+New Zealand,NZL,1995-01-01,"2,442.3",4094
+New Zealand,NZL,1996-01-01,"2,575.5",4095
+New Zealand,NZL,1997-01-01,"2,726.3",4096
+New Zealand,NZL,1998-01-01,"2,801.7",4097
+New Zealand,NZL,1999-01-01,"2,915.4",4098
+New Zealand,NZL,2000-01-01,"2,850.8",4099
+New Zealand,NZL,2001-01-01,"2,850.9",4100
+New Zealand,NZL,2002-01-01,"2,739.8",4101
+New Zealand,NZL,2003-01-01,"2,799.8",4102
+New Zealand,NZL,2004-01-01,"2,825.1",4103
+New Zealand,NZL,2005-01-01,"2,987.2",4104
+New Zealand,NZL,2006-01-01,"3,081.8",4105
+New Zealand,NZL,2007-01-01,"3,175.8",4106
+New Zealand,NZL,2008-01-01,"3,323.4",4107
 New Zealand,NZL,2009-01-01,3188,4108
-New Zealand,NZL,2010-01-01,3400.9,4109
-New Zealand,NZL,2011-01-01,3471.8,4110
+New Zealand,NZL,2010-01-01,"3,400.9",4109
+New Zealand,NZL,2011-01-01,"3,471.8",4110
 Nicaragua,NIC,1986-01-01,4,4111
 Nicaragua,NIC,1987-01-01,7,4112
 Nicaragua,NIC,1988-01-01,10,4113
@@ -4202,22 +3330,22 @@ Norway,NOR,1992-01-01,2655,4199
 Norway,NOR,1993-01-01,2637,4200
 Norway,NOR,1994-01-01,2805,4201
 Norway,NOR,1995-01-01,2920,4202
-Norway,NOR,1996-01-01,2931.8,4203
-Norway,NOR,1997-01-01,2964.9,4204
-Norway,NOR,1998-01-01,3038.7,4205
-Norway,NOR,1999-01-01,3042.5,4206
+Norway,NOR,1996-01-01,"2,931.8",4203
+Norway,NOR,1997-01-01,"2,964.9",4204
+Norway,NOR,1998-01-01,"3,038.7",4205
+Norway,NOR,1999-01-01,"3,042.5",4206
 Norway,NOR,2000-01-01,3136,4207
-Norway,NOR,2001-01-01,3214.6,4208
-Norway,NOR,2002-01-01,3099.9,4209
-Norway,NOR,2003-01-01,3130.5,4210
-Norway,NOR,2004-01-01,3371.3,4211
-Norway,NOR,2005-01-01,3651.2,4212
-Norway,NOR,2006-01-01,3896.2,4213
-Norway,NOR,2007-01-01,4081.9,4214
-Norway,NOR,2008-01-01,4299.9,4215
-Norway,NOR,2009-01-01,4440.1,4216
-Norway,NOR,2010-01-01,4460.9,4217
-Norway,NOR,2011-01-01,4777.1,4218
+Norway,NOR,2001-01-01,"3,214.6",4208
+Norway,NOR,2002-01-01,"3,099.9",4209
+Norway,NOR,2003-01-01,"3,130.5",4210
+Norway,NOR,2004-01-01,"3,371.3",4211
+Norway,NOR,2005-01-01,"3,651.2",4212
+Norway,NOR,2006-01-01,"3,896.2",4213
+Norway,NOR,2007-01-01,"4,081.9",4214
+Norway,NOR,2008-01-01,"4,299.9",4215
+Norway,NOR,2009-01-01,"4,440.1",4216
+Norway,NOR,2010-01-01,"4,460.9",4217
+Norway,NOR,2011-01-01,"4,777.1",4218
 Oman,OMN,1986-01-01,2,4219
 Oman,OMN,1987-01-01,1,4220
 Oman,OMN,1988-01-01,13,4221
@@ -4267,9 +3395,9 @@ Pakistan,PAK,2005-01-01,493.1,4264
 Pakistan,PAK,2006-01-01,600.7,4265
 Pakistan,PAK,2007-01-01,741.2,4266
 Pakistan,PAK,2008-01-01,947.6,4267
-Pakistan,PAK,2009-01-01,1043.4,4268
-Pakistan,PAK,2010-01-01,1109.6,4269
-Pakistan,PAK,2011-01-01,1267.9,4270
+Pakistan,PAK,2009-01-01,"1,043.4",4268
+Pakistan,PAK,2010-01-01,"1,109.6",4269
+Pakistan,PAK,2011-01-01,"1,267.9",4270
 Palau,PLW,1995-01-01,0,4271
 Palau,PLW,1996-01-01,0,4272
 Palau,PLW,1997-01-01,0,4273
@@ -4428,23 +3556,23 @@ Poland,POL,1991-01-01,3919,4425
 Poland,POL,1992-01-01,4113,4426
 Poland,POL,1993-01-01,3848,4427
 Poland,POL,1994-01-01,4041,4428
-Poland,POL,1995-01-01,4549.4,4429
-Poland,POL,1996-01-01,4506.9,4430
-Poland,POL,1997-01-01,4565.5,4431
-Poland,POL,1998-01-01,4785.8,4432
-Poland,POL,1999-01-01,5100.2,4433
-Poland,POL,2000-01-01,5505.6,4434
-Poland,POL,2001-01-01,5629.4,4435
-Poland,POL,2002-01-01,6019.3,4436
-Poland,POL,2003-01-01,6581.8,4437
-Poland,POL,2004-01-01,6672.3,4438
-Poland,POL,2005-01-01,6853.8,4439
-Poland,POL,2006-01-01,7232.3,4440
-Poland,POL,2007-01-01,7137.5,4441
-Poland,POL,2008-01-01,7529.1,4442
-Poland,POL,2009-01-01,7358.6,4443
-Poland,POL,2010-01-01,7157.2,4444
-Poland,POL,2011-01-01,7564.2,4445
+Poland,POL,1995-01-01,"4,549.4",4429
+Poland,POL,1996-01-01,"4,506.9",4430
+Poland,POL,1997-01-01,"4,565.5",4431
+Poland,POL,1998-01-01,"4,785.8",4432
+Poland,POL,1999-01-01,"5,100.2",4433
+Poland,POL,2000-01-01,"5,505.6",4434
+Poland,POL,2001-01-01,"5,629.4",4435
+Poland,POL,2002-01-01,"6,019.3",4436
+Poland,POL,2003-01-01,"6,581.8",4437
+Poland,POL,2004-01-01,"6,672.3",4438
+Poland,POL,2005-01-01,"6,853.8",4439
+Poland,POL,2006-01-01,"7,232.3",4440
+Poland,POL,2007-01-01,"7,137.5",4441
+Poland,POL,2008-01-01,"7,529.1",4442
+Poland,POL,2009-01-01,"7,358.6",4443
+Poland,POL,2010-01-01,"7,157.2",4444
+Poland,POL,2011-01-01,"7,564.2",4445
 Portugal,PRT,1981-01-01,184,4446
 Portugal,PRT,1985-01-01,232,4447
 Portugal,PRT,1986-01-01,370,4448
@@ -4457,22 +3585,22 @@ Portugal,PRT,1992-01-01,712,4454
 Portugal,PRT,1993-01-01,794,4455
 Portugal,PRT,1994-01-01,914,4456
 Portugal,PRT,1995-01-01,990.3,4457
-Portugal,PRT,1996-01-01,1096.7,4458
+Portugal,PRT,1996-01-01,"1,096.7",4458
 Portugal,PRT,1997-01-01,1255,4459
-Portugal,PRT,1998-01-01,1418.4,4460
-Portugal,PRT,1999-01-01,1710.7,4461
-Portugal,PRT,2000-01-01,1879.5,4462
-Portugal,PRT,2001-01-01,2081.2,4463
-Portugal,PRT,2002-01-01,2331.4,4464
-Portugal,PRT,2003-01-01,2424.5,4465
-Portugal,PRT,2004-01-01,2853.1,4466
-Portugal,PRT,2005-01-01,2911.5,4467
-Portugal,PRT,2006-01-01,3628.5,4468
-Portugal,PRT,2007-01-01,3424.2,4469
-Portugal,PRT,2008-01-01,3856.8,4470
-Portugal,PRT,2009-01-01,4156.5,4471
-Portugal,PRT,2010-01-01,4171.5,4472
-Portugal,PRT,2011-01-01,4621.1,4473
+Portugal,PRT,1998-01-01,"1,418.4",4460
+Portugal,PRT,1999-01-01,"1,710.7",4461
+Portugal,PRT,2000-01-01,"1,879.5",4462
+Portugal,PRT,2001-01-01,"2,081.2",4463
+Portugal,PRT,2002-01-01,"2,331.4",4464
+Portugal,PRT,2003-01-01,"2,424.5",4465
+Portugal,PRT,2004-01-01,"2,853.1",4466
+Portugal,PRT,2005-01-01,"2,911.5",4467
+Portugal,PRT,2006-01-01,"3,628.5",4468
+Portugal,PRT,2007-01-01,"3,424.2",4469
+Portugal,PRT,2008-01-01,"3,856.8",4470
+Portugal,PRT,2009-01-01,"4,156.5",4471
+Portugal,PRT,2010-01-01,"4,171.5",4472
+Portugal,PRT,2011-01-01,"4,621.1",4473
 Qatar,QAT,1986-01-01,17,4474
 Qatar,QAT,1987-01-01,20,4475
 Qatar,QAT,1988-01-01,30,4476
@@ -4519,12 +3647,12 @@ Romania,ROU,2002-01-01,965.2,4516
 Romania,ROU,2003-01-01,874.9,4517
 Romania,ROU,2004-01-01,938,4518
 Romania,ROU,2005-01-01,887.8,4519
-Romania,ROU,2006-01-01,1014.8,4520
-Romania,ROU,2007-01-01,1252.3,4521
-Romania,ROU,2008-01-01,1397.9,4522
-Romania,ROU,2009-01-01,1366.9,4523
-Romania,ROU,2010-01-01,1544.9,4524
-Romania,ROU,2011-01-01,1625.9,4525
+Romania,ROU,2006-01-01,"1,014.8",4520
+Romania,ROU,2007-01-01,"1,252.3",4521
+Romania,ROU,2008-01-01,"1,397.9",4522
+Romania,ROU,2009-01-01,"1,366.9",4523
+Romania,ROU,2010-01-01,"1,544.9",4524
+Romania,ROU,2011-01-01,"1,625.9",4525
 Russian Federation,RUS,1981-01-01,0,4526
 Russian Federation,RUS,1985-01-01,0,4527
 Russian Federation,RUS,1986-01-01,0,4528
@@ -4532,23 +3660,23 @@ Russian Federation,RUS,1987-01-01,0,4529
 Russian Federation,RUS,1992-01-01,817,4530
 Russian Federation,RUS,1993-01-01,19659,4531
 Russian Federation,RUS,1994-01-01,21612,4532
-Russian Federation,RUS,1995-01-01,18603.5,4533
-Russian Federation,RUS,1996-01-01,18553.3,4534
-Russian Federation,RUS,1997-01-01,18133.4,4535
-Russian Federation,RUS,1998-01-01,17165.6,4536
-Russian Federation,RUS,1999-01-01,17145.4,4537
-Russian Federation,RUS,2000-01-01,17180.1,4538
-Russian Federation,RUS,2001-01-01,15657.9,4539
-Russian Federation,RUS,2002-01-01,15847.2,4540
-Russian Federation,RUS,2003-01-01,15147.8,4541
-Russian Federation,RUS,2004-01-01,14921.8,4542
-Russian Federation,RUS,2005-01-01,14424.5,4543
-Russian Federation,RUS,2006-01-01,13561.6,4544
-Russian Federation,RUS,2007-01-01,13953.7,4545
-Russian Federation,RUS,2008-01-01,13970.2,4546
-Russian Federation,RUS,2009-01-01,14057.2,4547
-Russian Federation,RUS,2010-01-01,13500.4,4548
-Russian Federation,RUS,2011-01-01,14150.9,4549
+Russian Federation,RUS,1995-01-01,"18,603.5",4533
+Russian Federation,RUS,1996-01-01,"18,553.3",4534
+Russian Federation,RUS,1997-01-01,"18,133.4",4535
+Russian Federation,RUS,1998-01-01,"17,165.6",4536
+Russian Federation,RUS,1999-01-01,"17,145.4",4537
+Russian Federation,RUS,2000-01-01,"17,180.1",4538
+Russian Federation,RUS,2001-01-01,"15,657.9",4539
+Russian Federation,RUS,2002-01-01,"15,847.2",4540
+Russian Federation,RUS,2003-01-01,"15,147.8",4541
+Russian Federation,RUS,2004-01-01,"14,921.8",4542
+Russian Federation,RUS,2005-01-01,"14,424.5",4543
+Russian Federation,RUS,2006-01-01,"13,561.6",4544
+Russian Federation,RUS,2007-01-01,"13,953.7",4545
+Russian Federation,RUS,2008-01-01,"13,970.2",4546
+Russian Federation,RUS,2009-01-01,"14,057.2",4547
+Russian Federation,RUS,2010-01-01,"13,500.4",4548
+Russian Federation,RUS,2011-01-01,"14,150.9",4549
 Rwanda,RWA,1986-01-01,8,4550
 Rwanda,RWA,1987-01-01,11,4551
 Rwanda,RWA,1988-01-01,10,4552
@@ -4677,8 +3805,8 @@ Saudi Arabia,SAU,2006-01-01,557.6,4674
 Saudi Arabia,SAU,2007-01-01,589.2,4675
 Saudi Arabia,SAU,2008-01-01,620.8,4676
 Saudi Arabia,SAU,2009-01-01,711.4,4677
-Saudi Arabia,SAU,2010-01-01,1003.2,4678
-Saudi Arabia,SAU,2011-01-01,1491.2,4679
+Saudi Arabia,SAU,2010-01-01,"1,003.2",4678
+Saudi Arabia,SAU,2011-01-01,"1,491.2",4679
 Senegal,SEN,1986-01-01,0,4680
 Senegal,SEN,1987-01-01,0,4681
 Senegal,SEN,1992-01-01,2,4682
@@ -4703,9 +3831,9 @@ Senegal,SEN,2011-01-01,79.3,4700
 Serbia,SRB,2006-01-01,435.3,4701
 Serbia,SRB,2007-01-01,1057,4702
 Serbia,SRB,2008-01-01,1043,4703
-Serbia,SRB,2009-01-01,1172.6,4704
-Serbia,SRB,2010-01-01,1165.3,4705
-Serbia,SRB,2011-01-01,1269.1,4706
+Serbia,SRB,2009-01-01,"1,172.6",4704
+Serbia,SRB,2010-01-01,"1,165.3",4705
+Serbia,SRB,2011-01-01,"1,269.1",4706
 Seychelles,SYC,1986-01-01,1,4707
 Seychelles,SYC,1987-01-01,2,4708
 Seychelles,SYC,1988-01-01,0,4709
@@ -4769,46 +3897,46 @@ Singapore,SGP,1991-01-01,599,4766
 Singapore,SGP,1992-01-01,755,4767
 Singapore,SGP,1993-01-01,854,4768
 Singapore,SGP,1994-01-01,1022,4769
-Singapore,SGP,1995-01-01,1141.4,4770
-Singapore,SGP,1996-01-01,1141.2,4771
-Singapore,SGP,1997-01-01,1338.5,4772
-Singapore,SGP,1998-01-01,1584.2,4773
-Singapore,SGP,1999-01-01,1897.2,4774
+Singapore,SGP,1995-01-01,"1,141.4",4770
+Singapore,SGP,1996-01-01,"1,141.2",4771
+Singapore,SGP,1997-01-01,"1,338.5",4772
+Singapore,SGP,1998-01-01,"1,584.2",4773
+Singapore,SGP,1999-01-01,"1,897.2",4774
 Singapore,SGP,2000-01-01,2361,4775
-Singapore,SGP,2001-01-01,2434.3,4776
-Singapore,SGP,2002-01-01,2631.9,4777
-Singapore,SGP,2003-01-01,2939.4,4778
-Singapore,SGP,2004-01-01,3384.3,4779
-Singapore,SGP,2005-01-01,3611.2,4780
+Singapore,SGP,2001-01-01,"2,434.3",4776
+Singapore,SGP,2002-01-01,"2,631.9",4777
+Singapore,SGP,2003-01-01,"2,939.4",4778
+Singapore,SGP,2004-01-01,"3,384.3",4779
+Singapore,SGP,2005-01-01,"3,611.2",4780
 Singapore,SGP,2006-01-01,3838,4781
-Singapore,SGP,2007-01-01,3793.3,4782
-Singapore,SGP,2008-01-01,4069.3,4783
-Singapore,SGP,2009-01-01,4187.8,4784
-Singapore,SGP,2010-01-01,4377.3,4785
-Singapore,SGP,2011-01-01,4542.8,4786
+Singapore,SGP,2007-01-01,"3,793.3",4782
+Singapore,SGP,2008-01-01,"4,069.3",4783
+Singapore,SGP,2009-01-01,"4,187.8",4784
+Singapore,SGP,2010-01-01,"4,377.3",4785
+Singapore,SGP,2011-01-01,"4,542.8",4786
 Slovak Republic,SVK,1981-01-01,0,4787
 Slovak Republic,SVK,1985-01-01,0,4788
 Slovak Republic,SVK,1986-01-01,0,4789
 Slovak Republic,SVK,1987-01-01,0,4790
 Slovak Republic,SVK,1992-01-01,44,4791
 Slovak Republic,SVK,1994-01-01,1151,4792
-Slovak Republic,SVK,1995-01-01,1079.2,4793
-Slovak Republic,SVK,1996-01-01,1140.2,4794
-Slovak Republic,SVK,1997-01-01,1069.7,4795
-Slovak Republic,SVK,1998-01-01,1140.4,4796
+Slovak Republic,SVK,1995-01-01,"1,079.2",4793
+Slovak Republic,SVK,1996-01-01,"1,140.2",4794
+Slovak Republic,SVK,1997-01-01,"1,069.7",4795
+Slovak Republic,SVK,1998-01-01,"1,140.4",4796
 Slovak Republic,SVK,1999-01-01,979.4,4797
 Slovak Republic,SVK,2000-01-01,978,4798
 Slovak Republic,SVK,2001-01-01,923.6,4799
 Slovak Republic,SVK,2002-01-01,954.4,4800
 Slovak Republic,SVK,2003-01-01,897.9,4801
-Slovak Republic,SVK,2004-01-01,1070.2,4802
+Slovak Republic,SVK,2004-01-01,"1,070.2",4802
 Slovak Republic,SVK,2005-01-01,921.8,4803
-Slovak Republic,SVK,2006-01-01,1006.9,4804
+Slovak Republic,SVK,2006-01-01,"1,006.9",4804
 Slovak Republic,SVK,2007-01-01,970.7,4805
 Slovak Republic,SVK,2008-01-01,1084,4806
-Slovak Republic,SVK,2009-01-01,1000.4,4807
-Slovak Republic,SVK,2010-01-01,1050.9,4808
-Slovak Republic,SVK,2011-01-01,1098.8,4809
+Slovak Republic,SVK,2009-01-01,"1,000.4",4807
+Slovak Republic,SVK,2010-01-01,"1,050.9",4808
+Slovak Republic,SVK,2011-01-01,"1,098.8",4809
 Slovenia,SVN,1981-01-01,0,4810
 Slovenia,SVN,1985-01-01,0,4811
 Slovenia,SVN,1986-01-01,0,4812
@@ -4826,13 +3954,13 @@ Slovenia,SVN,2001-01-01,850.6,4823
 Slovenia,SVN,2002-01-01,848.3,4824
 Slovenia,SVN,2003-01-01,950.9,4825
 Slovenia,SVN,2004-01-01,928.7,4826
-Slovenia,SVN,2005-01-01,1035.4,4827
-Slovenia,SVN,2006-01-01,1062.7,4828
-Slovenia,SVN,2007-01-01,1282.8,4829
-Slovenia,SVN,2008-01-01,1305.9,4830
-Slovenia,SVN,2009-01-01,1234.9,4831
-Slovenia,SVN,2010-01-01,1151.4,4832
-Slovenia,SVN,2011-01-01,1239.3,4833
+Slovenia,SVN,2005-01-01,"1,035.4",4827
+Slovenia,SVN,2006-01-01,"1,062.7",4828
+Slovenia,SVN,2007-01-01,"1,282.8",4829
+Slovenia,SVN,2008-01-01,"1,305.9",4830
+Slovenia,SVN,2009-01-01,"1,234.9",4831
+Slovenia,SVN,2010-01-01,"1,151.4",4832
+Slovenia,SVN,2011-01-01,"1,239.3",4833
 Solomon Islands,SLB,1986-01-01,4,4834
 Solomon Islands,SLB,1987-01-01,1,4835
 Solomon Islands,SLB,1988-01-01,1,4836
@@ -4896,23 +4024,23 @@ South Africa,ZAF,1991-01-01,2552,4893
 South Africa,ZAF,1992-01-01,2419,4894
 South Africa,ZAF,1993-01-01,2377,4895
 South Africa,ZAF,1994-01-01,2459,4896
-South Africa,ZAF,1995-01-01,2350.7,4897
-South Africa,ZAF,1996-01-01,2215.6,4898
-South Africa,ZAF,1997-01-01,2222.9,4899
-South Africa,ZAF,1998-01-01,2224.7,4900
-South Africa,ZAF,1999-01-01,2302.5,4901
-South Africa,ZAF,2000-01-01,2220.7,4902
-South Africa,ZAF,2001-01-01,2291.4,4903
+South Africa,ZAF,1995-01-01,"2,350.7",4897
+South Africa,ZAF,1996-01-01,"2,215.6",4898
+South Africa,ZAF,1997-01-01,"2,222.9",4899
+South Africa,ZAF,1998-01-01,"2,224.7",4900
+South Africa,ZAF,1999-01-01,"2,302.5",4901
+South Africa,ZAF,2000-01-01,"2,220.7",4902
+South Africa,ZAF,2001-01-01,"2,291.4",4903
 South Africa,ZAF,2002-01-01,2328,4904
-South Africa,ZAF,2003-01-01,2204.8,4905
-South Africa,ZAF,2004-01-01,2319.5,4906
-South Africa,ZAF,2005-01-01,2395.4,4907
-South Africa,ZAF,2006-01-01,2642.7,4908
+South Africa,ZAF,2003-01-01,"2,204.8",4905
+South Africa,ZAF,2004-01-01,"2,319.5",4906
+South Africa,ZAF,2005-01-01,"2,395.4",4907
+South Africa,ZAF,2006-01-01,"2,642.7",4908
 South Africa,ZAF,2007-01-01,2808,4909
-South Africa,ZAF,2008-01-01,2915.5,4910
-South Africa,ZAF,2009-01-01,2863.8,4911
-South Africa,ZAF,2010-01-01,2971.8,4912
-South Africa,ZAF,2011-01-01,3124.6,4913
+South Africa,ZAF,2008-01-01,"2,915.5",4910
+South Africa,ZAF,2009-01-01,"2,863.8",4911
+South Africa,ZAF,2010-01-01,"2,971.8",4912
+South Africa,ZAF,2011-01-01,"3,124.6",4913
 Spain,ESP,1981-01-01,2362,4914
 Spain,ESP,1985-01-01,4016,4915
 Spain,ESP,1986-01-01,4871,4916
@@ -4924,23 +4052,23 @@ Spain,ESP,1991-01-01,7269,4921
 Spain,ESP,1992-01-01,9267,4922
 Spain,ESP,1993-01-01,9759,4923
 Spain,ESP,1994-01-01,10534,4924
-Spain,ESP,1995-01-01,11315.9,4925
-Spain,ESP,1996-01-01,12495.1,4926
-Spain,ESP,1997-01-01,13075.3,4927
-Spain,ESP,1998-01-01,13719.5,4928
-Spain,ESP,1999-01-01,14513.7,4929
-Spain,ESP,2000-01-01,14796.2,4930
+Spain,ESP,1995-01-01,"11,315.9",4925
+Spain,ESP,1996-01-01,"12,495.1",4926
+Spain,ESP,1997-01-01,"13,075.3",4927
+Spain,ESP,1998-01-01,"13,719.5",4928
+Spain,ESP,1999-01-01,"14,513.7",4929
+Spain,ESP,2000-01-01,"14,796.2",4930
 Spain,ESP,2001-01-01,15324,4931
-Spain,ESP,2002-01-01,16062.3,4932
-Spain,ESP,2003-01-01,16100.8,4933
+Spain,ESP,2002-01-01,"16,062.3",4932
+Spain,ESP,2003-01-01,"16,100.8",4933
 Spain,ESP,2004-01-01,17027,4934
-Spain,ESP,2005-01-01,18345.7,4935
-Spain,ESP,2006-01-01,19526.8,4936
-Spain,ESP,2007-01-01,20993.3,4937
-Spain,ESP,2008-01-01,21509.1,4938
-Spain,ESP,2009-01-01,21547.5,4939
-Spain,ESP,2010-01-01,22019.9,4940
-Spain,ESP,2011-01-01,22910.3,4941
+Spain,ESP,2005-01-01,"18,345.7",4935
+Spain,ESP,2006-01-01,"19,526.8",4936
+Spain,ESP,2007-01-01,"20,993.3",4937
+Spain,ESP,2008-01-01,"21,509.1",4938
+Spain,ESP,2009-01-01,"21,547.5",4939
+Spain,ESP,2010-01-01,"22,019.9",4940
+Spain,ESP,2011-01-01,"22,910.3",4941
 Sri Lanka,LKA,1986-01-01,52,4942
 Sri Lanka,LKA,1987-01-01,94,4943
 Sri Lanka,LKA,1988-01-01,107,4944
@@ -5134,23 +4262,23 @@ Sweden,SWE,1991-01-01,8139,5131
 Sweden,SWE,1992-01-01,8273,5132
 Sweden,SWE,1993-01-01,8547,5133
 Sweden,SWE,1994-01-01,8972,5134
-Sweden,SWE,1995-01-01,9287.2,5135
-Sweden,SWE,1996-01-01,9557.9,5136
-Sweden,SWE,1997-01-01,9655.1,5137
+Sweden,SWE,1995-01-01,"9,287.2",5135
+Sweden,SWE,1996-01-01,"9,557.9",5136
+Sweden,SWE,1997-01-01,"9,655.1",5137
 Sweden,SWE,1998-01-01,9835,5138
-Sweden,SWE,1999-01-01,9889.7,5139
-Sweden,SWE,2000-01-01,9883.4,5140
-Sweden,SWE,2001-01-01,10022.3,5141
-Sweden,SWE,2002-01-01,9872.2,5142
-Sweden,SWE,2003-01-01,9676.5,5143
-Sweden,SWE,2004-01-01,9853.6,5144
-Sweden,SWE,2005-01-01,10016.5,5145
-Sweden,SWE,2006-01-01,10105.3,5146
-Sweden,SWE,2007-01-01,9917.5,5147
-Sweden,SWE,2008-01-01,9681.7,5148
-Sweden,SWE,2009-01-01,9480.1,5149
-Sweden,SWE,2010-01-01,9418.5,5150
-Sweden,SWE,2011-01-01,9472.9,5151
+Sweden,SWE,1999-01-01,"9,889.7",5139
+Sweden,SWE,2000-01-01,"9,883.4",5140
+Sweden,SWE,2001-01-01,"10,022.3",5141
+Sweden,SWE,2002-01-01,"9,872.2",5142
+Sweden,SWE,2003-01-01,"9,676.5",5143
+Sweden,SWE,2004-01-01,"9,853.6",5144
+Sweden,SWE,2005-01-01,"10,016.5",5145
+Sweden,SWE,2006-01-01,"10,105.3",5146
+Sweden,SWE,2007-01-01,"9,917.5",5147
+Sweden,SWE,2008-01-01,"9,681.7",5148
+Sweden,SWE,2009-01-01,"9,480.1",5149
+Sweden,SWE,2010-01-01,"9,418.5",5150
+Sweden,SWE,2011-01-01,"9,472.9",5151
 Switzerland,CHE,1981-01-01,4801,5152
 Switzerland,CHE,1985-01-01,4895,5153
 Switzerland,CHE,1986-01-01,5488,5154
@@ -5163,22 +4291,22 @@ Switzerland,CHE,1992-01-01,6651,5160
 Switzerland,CHE,1993-01-01,6871,5161
 Switzerland,CHE,1994-01-01,7372,5162
 Switzerland,CHE,1995-01-01,7220,5163
-Switzerland,CHE,1996-01-01,7568.4,5164
-Switzerland,CHE,1997-01-01,7863.9,5165
-Switzerland,CHE,1998-01-01,7983.9,5166
-Switzerland,CHE,1999-01-01,8194.5,5167
-Switzerland,CHE,2000-01-01,8503.8,5168
-Switzerland,CHE,2001-01-01,7949.9,5169
-Switzerland,CHE,2002-01-01,7878.8,5170
-Switzerland,CHE,2003-01-01,8133.9,5171
-Switzerland,CHE,2004-01-01,8674.1,5172
-Switzerland,CHE,2005-01-01,8766.8,5173
+Switzerland,CHE,1996-01-01,"7,568.4",5164
+Switzerland,CHE,1997-01-01,"7,863.9",5165
+Switzerland,CHE,1998-01-01,"7,983.9",5166
+Switzerland,CHE,1999-01-01,"8,194.5",5167
+Switzerland,CHE,2000-01-01,"8,503.8",5168
+Switzerland,CHE,2001-01-01,"7,949.9",5169
+Switzerland,CHE,2002-01-01,"7,878.8",5170
+Switzerland,CHE,2003-01-01,"8,133.9",5171
+Switzerland,CHE,2004-01-01,"8,674.1",5172
+Switzerland,CHE,2005-01-01,"8,766.8",5173
 Switzerland,CHE,2006-01-01,9234,5174
-Switzerland,CHE,2007-01-01,9195.6,5175
-Switzerland,CHE,2008-01-01,9334.4,5176
-Switzerland,CHE,2009-01-01,9472.2,5177
-Switzerland,CHE,2010-01-01,9626.8,5178
-Switzerland,CHE,2011-01-01,10018.6,5179
+Switzerland,CHE,2007-01-01,"9,195.6",5175
+Switzerland,CHE,2008-01-01,"9,334.4",5176
+Switzerland,CHE,2009-01-01,"9,472.2",5177
+Switzerland,CHE,2010-01-01,"9,626.8",5178
+Switzerland,CHE,2011-01-01,"10,018.6",5179
 Syrian Arab Republic,SYR,1986-01-01,15,5180
 Syrian Arab Republic,SYR,1987-01-01,25,5181
 Syrian Arab Republic,SYR,1988-01-01,19,5182
@@ -5274,14 +4402,14 @@ Thailand,THA,1999-01-01,549.5,5271
 Thailand,THA,2000-01-01,663.3,5272
 Thailand,THA,2001-01-01,726.9,5273
 Thailand,THA,2002-01-01,834,5274
-Thailand,THA,2003-01-01,1018.6,5275
-Thailand,THA,2004-01-01,1130.5,5276
-Thailand,THA,2005-01-01,1248.9,5277
+Thailand,THA,2003-01-01,"1,018.6",5275
+Thailand,THA,2004-01-01,"1,130.5",5276
+Thailand,THA,2005-01-01,"1,248.9",5277
 Thailand,THA,2006-01-01,1568,5278
-Thailand,THA,2007-01-01,1727.7,5279
-Thailand,THA,2008-01-01,1959.5,5280
-Thailand,THA,2009-01-01,2033.4,5281
-Thailand,THA,2010-01-01,2106.4,5282
+Thailand,THA,2007-01-01,"1,727.7",5279
+Thailand,THA,2008-01-01,"1,959.5",5280
+Thailand,THA,2009-01-01,"2,033.4",5281
+Thailand,THA,2010-01-01,"2,106.4",5282
 Thailand,THA,2011-01-01,2304,5283
 Togo,TGO,1986-01-01,6,5284
 Togo,TGO,1987-01-01,3,5285
@@ -5384,9 +4512,9 @@ Tunisia,TUN,2005-01-01,571.3,5381
 Tunisia,TUN,2006-01-01,656.4,5382
 Tunisia,TUN,2007-01-01,758.1,5383
 Tunisia,TUN,2008-01-01,851.2,5384
-Tunisia,TUN,2009-01-01,1022.4,5385
+Tunisia,TUN,2009-01-01,"1,022.4",5385
 Tunisia,TUN,2010-01-01,978.3,5386
-Tunisia,TUN,2011-01-01,1015.5,5387
+Tunisia,TUN,2011-01-01,"1,015.5",5387
 Turkey,TUR,1981-01-01,251,5388
 Turkey,TUR,1985-01-01,326,5389
 Turkey,TUR,1986-01-01,386,5390
@@ -5398,23 +4526,23 @@ Turkey,TUR,1991-01-01,846,5395
 Turkey,TUR,1992-01-01,1048,5396
 Turkey,TUR,1993-01-01,1172,5397
 Turkey,TUR,1994-01-01,1397,5398
-Turkey,TUR,1995-01-01,1714.7,5399
+Turkey,TUR,1995-01-01,"1,714.7",5399
 Turkey,TUR,1996-01-01,2228,5400
-Turkey,TUR,1997-01-01,2480.7,5401
+Turkey,TUR,1997-01-01,"2,480.7",5401
 Turkey,TUR,1998-01-01,2795,5402
-Turkey,TUR,1999-01-01,3222.7,5403
-Turkey,TUR,2000-01-01,3484.1,5404
-Turkey,TUR,2001-01-01,4150.9,5405
-Turkey,TUR,2002-01-01,5226.1,5406
-Turkey,TUR,2003-01-01,6038.8,5407
-Turkey,TUR,2004-01-01,7434.3,5408
-Turkey,TUR,2005-01-01,7816.5,5409
-Turkey,TUR,2006-01-01,8180.5,5410
-Turkey,TUR,2007-01-01,8640.7,5411
+Turkey,TUR,1999-01-01,"3,222.7",5403
+Turkey,TUR,2000-01-01,"3,484.1",5404
+Turkey,TUR,2001-01-01,"4,150.9",5405
+Turkey,TUR,2002-01-01,"5,226.1",5406
+Turkey,TUR,2003-01-01,"6,038.8",5407
+Turkey,TUR,2004-01-01,"7,434.3",5408
+Turkey,TUR,2005-01-01,"7,816.5",5409
+Turkey,TUR,2006-01-01,"8,180.5",5410
+Turkey,TUR,2007-01-01,"8,640.7",5411
 Turkey,TUR,2008-01-01,8543,5412
-Turkey,TUR,2009-01-01,8307.1,5413
+Turkey,TUR,2009-01-01,"8,307.1",5413
 Turkey,TUR,2010-01-01,7950,5414
-Turkey,TUR,2011-01-01,8328.4,5415
+Turkey,TUR,2011-01-01,"8,328.4",5415
 Turkmenistan,TKM,1986-01-01,0,5416
 Turkmenistan,TKM,1987-01-01,0,5417
 Turkmenistan,TKM,1988-01-01,0,5418
@@ -5491,23 +4619,23 @@ Ukraine,UKR,1987-01-01,0,5488
 Ukraine,UKR,1992-01-01,162,5489
 Ukraine,UKR,1993-01-01,2894,5490
 Ukraine,UKR,1994-01-01,2923,5491
-Ukraine,UKR,1995-01-01,2515.8,5492
-Ukraine,UKR,1996-01-01,2420.2,5493
-Ukraine,UKR,1997-01-01,2265.2,5494
-Ukraine,UKR,1998-01-01,2283.9,5495
-Ukraine,UKR,1999-01-01,2354.9,5496
-Ukraine,UKR,2000-01-01,2267.6,5497
-Ukraine,UKR,2001-01-01,2238.7,5498
-Ukraine,UKR,2002-01-01,2182.8,5499
-Ukraine,UKR,2003-01-01,1993.4,5500
-Ukraine,UKR,2004-01-01,2011.5,5501
-Ukraine,UKR,2005-01-01,2104.5,5502
-Ukraine,UKR,2006-01-01,1909.6,5503
-Ukraine,UKR,2007-01-01,1846.9,5504
-Ukraine,UKR,2008-01-01,1843.6,5505
-Ukraine,UKR,2009-01-01,1639.4,5506
-Ukraine,UKR,2010-01-01,1682.1,5507
-Ukraine,UKR,2011-01-01,1726.9,5508
+Ukraine,UKR,1995-01-01,"2,515.8",5492
+Ukraine,UKR,1996-01-01,"2,420.2",5493
+Ukraine,UKR,1997-01-01,"2,265.2",5494
+Ukraine,UKR,1998-01-01,"2,283.9",5495
+Ukraine,UKR,1999-01-01,"2,354.9",5496
+Ukraine,UKR,2000-01-01,"2,267.6",5497
+Ukraine,UKR,2001-01-01,"2,238.7",5498
+Ukraine,UKR,2002-01-01,"2,182.8",5499
+Ukraine,UKR,2003-01-01,"1,993.4",5500
+Ukraine,UKR,2004-01-01,"2,011.5",5501
+Ukraine,UKR,2005-01-01,"2,104.5",5502
+Ukraine,UKR,2006-01-01,"1,909.6",5503
+Ukraine,UKR,2007-01-01,"1,846.9",5504
+Ukraine,UKR,2008-01-01,"1,843.6",5505
+Ukraine,UKR,2009-01-01,"1,639.4",5506
+Ukraine,UKR,2010-01-01,"1,682.1",5507
+Ukraine,UKR,2011-01-01,"1,726.9",5508
 United Arab Emirates,ARE,1986-01-01,13,5509
 United Arab Emirates,ARE,1987-01-01,20,5510
 United Arab Emirates,ARE,1988-01-01,23,5511
@@ -5545,23 +4673,23 @@ United Kingdom,GBR,1991-01-01,39950,5542
 United Kingdom,GBR,1992-01-01,42404,5543
 United Kingdom,GBR,1993-01-01,42456,5544
 United Kingdom,GBR,1994-01-01,45436,5545
-United Kingdom,GBR,1995-01-01,45497.6,5546
-United Kingdom,GBR,1996-01-01,46213.9,5547
-United Kingdom,GBR,1997-01-01,45883.9,5548
-United Kingdom,GBR,1998-01-01,46141.3,5549
-United Kingdom,GBR,1999-01-01,46787.9,5550
-United Kingdom,GBR,2000-01-01,48216.1,5551
-United Kingdom,GBR,2001-01-01,45588.2,5552
-United Kingdom,GBR,2002-01-01,44642.9,5553
-United Kingdom,GBR,2003-01-01,45232.1,5554
-United Kingdom,GBR,2004-01-01,45491.6,5555
-United Kingdom,GBR,2005-01-01,45658.1,5556
-United Kingdom,GBR,2006-01-01,46751.3,5557
-United Kingdom,GBR,2007-01-01,47139.7,5558
-United Kingdom,GBR,2008-01-01,46333.2,5559
+United Kingdom,GBR,1995-01-01,"45,497.6",5546
+United Kingdom,GBR,1996-01-01,"46,213.9",5547
+United Kingdom,GBR,1997-01-01,"45,883.9",5548
+United Kingdom,GBR,1998-01-01,"46,141.3",5549
+United Kingdom,GBR,1999-01-01,"46,787.9",5550
+United Kingdom,GBR,2000-01-01,"48,216.1",5551
+United Kingdom,GBR,2001-01-01,"45,588.2",5552
+United Kingdom,GBR,2002-01-01,"44,642.9",5553
+United Kingdom,GBR,2003-01-01,"45,232.1",5554
+United Kingdom,GBR,2004-01-01,"45,491.6",5555
+United Kingdom,GBR,2005-01-01,"45,658.1",5556
+United Kingdom,GBR,2006-01-01,"46,751.3",5557
+United Kingdom,GBR,2007-01-01,"47,139.7",5558
+United Kingdom,GBR,2008-01-01,"46,333.2",5559
 United Kingdom,GBR,2009-01-01,45689,5560
 United Kingdom,GBR,2010-01-01,45978,5561
-United Kingdom,GBR,2011-01-01,46035.4,5562
+United Kingdom,GBR,2011-01-01,"46,035.4",5562
 United States,USA,1981-01-01,132278,5563
 United States,USA,1985-01-01,137771,5564
 United States,USA,1986-01-01,178266,5565
@@ -5573,21 +4701,21 @@ United States,USA,1991-01-01,194015,5570
 United States,USA,1992-01-01,198864,5571
 United States,USA,1993-01-01,197397,5572
 United States,USA,1994-01-01,199769,5573
-United States,USA,1995-01-01,193336.9,5574
-United States,USA,1996-01-01,193161.2,5575
-United States,USA,1997-01-01,189751.9,5576
-United States,USA,1998-01-01,190431.4,5577
-United States,USA,1999-01-01,188004.1,5578
+United States,USA,1995-01-01,"193,336.9",5574
+United States,USA,1996-01-01,"193,161.2",5575
+United States,USA,1997-01-01,"189,751.9",5576
+United States,USA,1998-01-01,"190,431.4",5577
+United States,USA,1999-01-01,"188,004.1",5578
 United States,USA,2000-01-01,192743,5579
-United States,USA,2001-01-01,190593.6,5580
-United States,USA,2002-01-01,190496.1,5581
-United States,USA,2003-01-01,196445.3,5582
-United States,USA,2004-01-01,202097.3,5583
-United States,USA,2005-01-01,205564.6,5584
-United States,USA,2006-01-01,209272.3,5585
+United States,USA,2001-01-01,"190,593.6",5580
+United States,USA,2002-01-01,"190,496.1",5581
+United States,USA,2003-01-01,"196,445.3",5582
+United States,USA,2004-01-01,"202,097.3",5583
+United States,USA,2005-01-01,"205,564.6",5584
+United States,USA,2006-01-01,"209,272.3",5585
 United States,USA,2007-01-01,209898,5586
 United States,USA,2008-01-01,212883,5587
-United States,USA,2009-01-01,208600.8,5588
+United States,USA,2009-01-01,"208,600.8",5588
 Uruguay,URY,1986-01-01,31,5589
 Uruguay,URY,1987-01-01,33,5590
 Uruguay,URY,1988-01-01,42,5591
